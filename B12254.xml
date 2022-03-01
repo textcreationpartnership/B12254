@@ -1,0 +1,669 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Phōsphoros or A most heauenly and fruitfull sermon, preached the sixt of August. 1615 At the translation of the right Reuerend Father in God, the Archbishop of St. Andrewes to the sea thereof. By Mr. William Covvper B. of Galloway.</title>
+            <author>Cowper, William, 1568-1619.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1616</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12254</idno>
+            <idno type="STC">STC 5932</idno>
+            <idno type="STC">ESTC S114580</idno>
+            <idno type="EEBO-CITATION">99849805</idno>
+            <idno type="PROQUEST">99849805</idno>
+            <idno type="VID">177904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1268:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Phōsphoros or A most heauenly and fruitfull sermon, preached the sixt of August. 1615 At the translation of the right Reuerend Father in God, the Archbishop of St. Andrewes to the sea thereof. By Mr. William Covvper B. of Galloway.</title>
+                  <author>Cowper, William, 1568-1619.</author>
+               </titleStmt>
+               <extent>[8], 85, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By G. P[urslowe] for Iohn Budge, and are to be solde at his shop, at the great South-doore of Paules, and at Britaines Bursse,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1616.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spottiswood, John, 1565-1639.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177904:1"/>
+            <pb facs="tcp:177904:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>OR</hi> A moſt Heauenly and <hi>Fruitfull Sermon, Preached the</hi> ſixt of Auguſt. 1615.</p>
+            <p>
+               <hi>At the Tranſlation of the right</hi> Re<g ref="char:EOLhyphen"/>uerend Father in God, the Arch<g ref="char:EOLhyphen"/>biſhop of S<hi rend="sup">t</hi>. <hi>Andrewes</hi> to the Sea thereof.</p>
+            <p>
+               <hi>By</hi> M<hi rend="sup">r</hi>. WILLIAM COVVPER <hi>B. of Galloway.</hi>
+            </p>
+            <q>
+               <bibl>DAN. 12. 3.</bibl>
+               <p>They that turne many to righteouſneſſe, ſhall ſhine as the ſtars for euer &amp; euer.</p>
+            </q>
+            <figure/>
+            <p>Imprinted at <hi>London</hi> by <hi>G. P.</hi> for <hi>Iohn Budge,</hi> and are to be ſolde at his ſhop, at the great South-doore of Paules, and at Britaines Burſſe. 1616.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177904:2"/>
+            <pb facs="tcp:177904:2"/>
+            <head>
+               <hi>TO THE RIGHT</hi> Honourable, my Lord <hi>SANCHAR.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here is one Starre, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> which from diuers Offices, receiueth ſudry names (ſaith <hi>Piſida Conſtanti<g ref="char:EOLhyphen"/>nopol.) It is</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a nunce of the night, and therefore called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It returneth againe, and declares the approach<g ref="char:EOLhyphen"/>ing of the day, then is it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and therefore called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<pb facs="tcp:177904:3"/> Such a one haue I been at this time. The funerall of the late Archbiſhop of S<hi>
+                  <hi rend="sup">t</hi> Andrewes,</hi> the new function of his ſucceſſor gaue occaſion of both. I was inuited vnlooked for to the interring of the one, that I might ſpeak to the liuing for the dead, and from him. There <hi>Heſperus</hi> ouer<g ref="char:EOLhyphen"/>ſhadowed vs, with darke and dole<g ref="char:EOLhyphen"/>full countenance. Inioyned againe to preach at the entrie of the other, there <hi>Phoſphorus</hi> proclaimed the comming of a bright and ioyful day, which I pray God may long conti<g ref="char:EOLhyphen"/>nue.</p>
+            <p>Bleſsed be the Lord, who ſtill con<g ref="char:EOLhyphen"/>ſerues a Miniſtrie in his Church! <hi>One generation paſſeth, &amp; ano<g ref="char:EOLhyphen"/>ther</hi> 
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 1. 4</note> 
+               <hi>commeth, but the earth re<g ref="char:EOLhyphen"/>maineth;</hi> much more, <hi>he who for<g ref="char:EOLhyphen"/>med</hi> 
+               <note place="margin">
+                  <hi>Iam.</hi> 1. 17</note> 
+               <hi>it,</hi> for in him falleth no ſha<g ref="char:EOLhyphen"/>dowe of change. Before the <hi>Ruler of the world</hi> ſtand theſe <hi>Oliues,</hi> 
+               <note place="margin">
+                  <hi>Zach.</hi> 4.</note> which furniſh oyle to his Candle<g ref="char:EOLhyphen"/>ſticke.
+<pb facs="tcp:177904:3"/> In his hand are the ſeauen <note place="margin">
+                  <hi>Reuel.</hi> 1. 12.</note> ſtarres: no ſmoke of the bottomleſſe pit can vtterly quench their light. If one of them goe downe from our <hi>Horizon,</hi> another aſcends. <hi>Elijah</hi> may be taken away; but one com<g ref="char:EOLhyphen"/>meth after him in <hi>the Spirit, and power of Elijah. Moſes dyed,</hi> but <hi>The God of the Spirits of all fleſh</hi> raiſed vp <hi>Ioſhua,</hi> with whom he wrought no leſse powerfully, then with <hi>Moſes.</hi> By <hi>Moſes</hi> he brought <hi>Iſrael</hi> out of <hi>Egypt,</hi> by <hi>Ioſhua</hi> hee entred them in <hi>Canaan.</hi> By <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> hee deſtroyed one Nation of the <hi>Egyptians,</hi> by <hi>Ioſhua</hi> he diſcom<g ref="char:EOLhyphen"/>fited ſeauen Nations of the <hi>Cana<g ref="char:EOLhyphen"/>nites. Moſes</hi> diuided the red Sea, and <hi>Ioſhua</hi> parted <hi>Iordan</hi> into two. <hi>Moſes</hi> darkned the <hi>Sunne</hi> that it ſhined not, <hi>Ioſhua</hi> detained it, that it went not downe, accor<g ref="char:EOLhyphen"/>ding to the ordinary courſe. <hi>Nim<g ref="char:EOLhyphen"/>rod</hi> for all his might cannot build
+<pb facs="tcp:177904:4"/> vp, where <hi>IEHOVA</hi> will caſt downe. Neither can <hi>Sennache<g ref="char:EOLhyphen"/>rib</hi> for al his pride, preuaile againſt the Citie which God will protect. They are fooles who fight againſt heauen. <hi>Sidonians</hi> in their trea<g ref="char:EOLhyphen"/>tie <note place="margin">
+                  <hi>Act.</hi> 12. 20</note> with <hi>Blaſtus</hi> for <hi>Herod</hi> his peace, might learne them more wiſ<g ref="char:EOLhyphen"/>dome: they imagine <hi>to quench the light of Iſrael,</hi> by cutting away comfortable inſtruments from the Church: but they are deceiued; for the Church is like a tree, whoſe branches hang downe to the earth, and may be cut off, though not with<g ref="char:EOLhyphen"/>out diuine permiſsion, but the roote is in heauen, which ſtil ſendeth out others in their roome. I haue pen<g ref="char:EOLhyphen"/>ned this Sermon, to ſtoppe the mouthes of miſreporters, as I prea<g ref="char:EOLhyphen"/>ched it, without paring or adding any thing, except a little diſcourſe of the Religion of our <hi>Antipodes:</hi> And doe now dedicate it to your
+<pb facs="tcp:177904:4"/> Lordſhip, as one who being a pre<g ref="char:EOLhyphen"/>ſent Auditor thereof, can beſt beare witnes to the truth of my relation. And I truſt, your Lordſhip will alſo accept it as a teſtimony of that loue, which I owe vnto you, for your con<g ref="char:EOLhyphen"/>ſtant profeſsion of God his eternall truth, in this declining age, and your moſt ſincere affection, in all your ſpeeches euer auowed to his Maieſties ſeruice: whereunto as your Lordſhip acknowledgeth your ſelfe to be bounden beyond others of your ranke; So I pray GOD your Lordſhip may continue faithfull, in both vnto the death.</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips owne in Chriſt,</hi> W. B. of Galloway.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177904:5"/>
+            <pb n="1" facs="tcp:177904:5"/>
+            <head>A Moſt Heauenly and <hi>fruitfull Sermon, Preached the</hi> ſixt of Auguſt, 1615.</head>
+            <epigraph>
+               <bibl>TIT. 2. 7, 8.</bibl>
+               <q>
+                  <p>In all things ſhew thy ſelfe an enſample of good workes, with vncorrupt do<g ref="char:EOLhyphen"/>ctrine, with grauity and integritie.</p>
+                  <p>And with the wholſome word, vnrepro<g ref="char:EOLhyphen"/>uable, that hee which withſtandeth may bee aſhamed, hauing nothing concerning you to ſpeake euill of.</p>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>My helpe is in the name of the LORD.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words read in <note place="margin">Two parts of this Text.</note> your honourable, and Chriſtian au<g ref="char:EOLhyphen"/>dience (beloued in our Lord and Sa<g ref="char:EOLhyphen"/>uiour
+<pb n="2" facs="tcp:177904:6"/> Chriſt Ieſus) containe two things. Firſt, the duty of a good <note place="margin">1. Duty of Pa<g ref="char:EOLhyphen"/>ſtors.</note> Biſhop or Paſtor toward his people. This is plainly ſet down: hee ſhould bee <hi>an enſample,</hi> in word, in worke, in doctrine, in life. Next, the duty of Chriſtian <note place="margin">2. Duty of peo<g ref="char:EOLhyphen"/>ple.</note> people toward their Biſhop, or Paſtor: and this is cloſely ſet downe, or (as we ſay) by way of conſequence, for this ſame pre<g ref="char:EOLhyphen"/>cept, which bindeth the one to bee an exemplar, bindeth the o<g ref="char:EOLhyphen"/>ther to bee conformable to the exemplar.</p>
+            <p>In the entry, we are to warne <note place="margin">Warning in the entry.</note> you that wee come not here this day to ordaine a new Biſhop in the Church, but to enter an old and approued Biſhop vnto a new charge in the Church. Nei<g ref="char:EOLhyphen"/>ther haue I choſen this Text, ſo much for him, as for the edifi<g ref="char:EOLhyphen"/>cation of vs all, who are in this
+<pb n="3" facs="tcp:177904:6"/> holy calling. I wiſh vnto all the reſt the like wiſedome in go<g ref="char:EOLhyphen"/>uernment, dextetity in doing, and feruent zeale againſt the common enemy, that hath been euident in him. I bleſſe them, as the <hi>Elders of Iſrael</hi> bleſſed <hi>Ruth</hi> the wife of <hi>Booz,</hi> and mother of our Lord. <hi>God make them like</hi> 
+               <note place="margin">Ruth. 4. 11.</note> 
+               <hi>Rahel, and like Leah, which twaine did build the houſe of Iſrael;</hi> and I pray for the performance of that promiſe in them, which God hath made to his Church by <hi>Za<g ref="char:EOLhyphen"/>charie,</hi> that the meaneſt ſeruant in the houſe of GOD this day may become like <hi>Dauid,</hi> and they who now in light and grace are like vnto <hi>Dauid, may increaſe,</hi> 
+               <note place="margin">Zach. 12. Col. 2. 19.</note> 
+               <hi>with the increaſings of God, till they become like an Angell of God.</hi> 
+               <note place="margin">Titus, ſtabli<g ref="char:EOLhyphen"/>ſhed by S. Paul, Biſhop of Creta, hauing charge of all Churches in that Ile.</note>
+            </p>
+            <p>This Epiſtle was written by St. <hi>Paul</hi> from <hi>Nicopolis</hi> in <hi>Mace<g ref="char:EOLhyphen"/>donia,</hi> to <hi>Titus,</hi> whom the Apo<g ref="char:EOLhyphen"/>ſtle
+<pb n="4" facs="tcp:177904:7"/> had taken from an other charge in the Church, for hee was his companion in his pere<g ref="char:EOLhyphen"/>grinations, and fellow-helper in the worke of the Lord, and now had bound him, and burdened him with a particular care of the Churches of <hi>Creta,</hi> and ſet him downe Biſhop there. <hi>Creta</hi> is an Ile in the Mediterranean ſea, fa<g ref="char:EOLhyphen"/>mous for this, that it had in it an hundreth Cities. The charge not of one, but all of them, is committed to <hi>Titus,</hi> to teach and gouerne them, and to plant Preachers in euery one of them: the ſubſcription of the Epiſtle ſo ſtiles him; <hi>Titus, the firſt elect Biſhop of the Cretians.</hi> Some of the contrary-minded, as name<g ref="char:EOLhyphen"/>ly, M<hi rend="sup">r</hi>. <hi>Cartwright,</hi> confeſſe this ſubſcription to bee taken from the Greeke <hi>Scholiaſt.</hi> Of this ſame iudgement are the ancient
+<pb n="5" facs="tcp:177904:7"/> Fathers. For the Greek church, it contents mee to name <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome:</hi> for the Latine church <hi>Am<g ref="char:EOLhyphen"/>broſe.</hi> Many more might be al<g ref="char:EOLhyphen"/>leaged, who compaſſe this aſſer<g ref="char:EOLhyphen"/>tion, like a <hi>Cloud of witneſſes,</hi> and warrant it to bee true by their teſtimony. <hi>Euſebius</hi> affirmeth the <note place="margin">Euſeb. lib. 3. cap. 4.</note> ſame, and citeth <hi>Sophronius,</hi> as conſonant vnto him: with them agree many of the Recents, ſuch as <hi>Bucerus, Bullengerus, Hemmin<g ref="char:EOLhyphen"/>gius, Pellicanus,</hi> and others, to whom none will deny the teſti<g ref="char:EOLhyphen"/>mony of godly, ſound, and lear<g ref="char:EOLhyphen"/>ned Diuines. But howſoeuer this Epiſtle was written to <hi>Titus</hi> by name; yet doth it appertaine to all that ſucceede him in the like calling, teaching the<g ref="char:cmbAbbrStroke">̄</g> what to do in gouernme<g ref="char:cmbAbbrStroke">̄</g>t of the houſe of God, &amp; ſo we come to the words</p>
+            <p>
+               <hi>In all things,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Mark <note place="margin">The threefold duty of a Bi<g ref="char:EOLhyphen"/>ſhop.</note> what the Apoſtle ſayth, in all
+<pb n="6" facs="tcp:177904:8"/> things, not in one thing, but in all be an enſample<g ref="char:punc">▪</g> Some things thou haſt to doe as a Chriſtian, ſome things as a Paſtor; and ſome as a Biſhop. As a chriſtian, <note place="margin">1. To liue as a good Chriſti<g ref="char:EOLhyphen"/>an.</note> be holy in thy ſelfe, and teach o<g ref="char:EOLhyphen"/>thers holineſſe by thy enſample. As a Paſtor, <hi>Preach the word of God in ſeaſon, and out of ſeaſon.</hi> As a Biſhop, counſel and admoniſh <note place="margin">2. To teach as a good Paſtor.</note> in wiſedome, correct with com<g ref="char:EOLhyphen"/>paſſion, ordaine with diſcretion, rebuke; and (if need be) cut off with aurhority. <hi>Epiſcopi prima</hi> 
+               <note place="margin">Nazian. Orat. 21. Apologet. fugae.</note> 
+               <hi>cura vt Eccleſia dignus ſit, deinde vt Sacrario, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> it a demum praefe<g ref="char:EOLhyphen"/>ctura.</hi> The firſt care of a Biſhop ſhould bee to liue like a good Chriſtian and member of the Church: Next, like a good Church-man ſeruing in the <note place="margin">3. To rule as a good Preſi<g ref="char:EOLhyphen"/>dent in the Church.</note> Sanctuarie: thirdly, like a good Preſident, or ouerſeer of others in the Church. Many not mar<g ref="char:EOLhyphen"/>king
+<pb n="7" facs="tcp:177904:8"/> this diſtinction of the Apo<g ref="char:EOLhyphen"/>ſtolicke precepts, in theſe Epi<g ref="char:EOLhyphen"/>ſtles vnto <hi>Timothy</hi> and <hi>Titus,</hi> are miſcaried in their iudgeme<g ref="char:cmbAbbrStroke">̄</g>t, not conſidering that the precepts gi<g ref="char:EOLhyphen"/>uen to them as to Chriſtians, are common to all Chriſtians, and the precepts giuen them as Pa<g ref="char:EOLhyphen"/>ſtors, appertaine to all Paſtors; but ſhould not bee extended to all Chriſtians: and the precepts giuen to them as Biſhops, ap<g ref="char:EOLhyphen"/>pertaine onely to ſuch as are Bi<g ref="char:EOLhyphen"/>ſhops.</p>
+            <p>
+               <hi>In all things.</hi> All things are <note place="margin">How a Biſhop ſhould behaue himſelfe in things good, euill and in<g ref="char:EOLhyphen"/>different.</note> either ſimply good, or ſimply e<g ref="char:EOLhyphen"/>uill, or the indifferent <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: that which is good, the Apoſtle willes him to doe it, with dili<g ref="char:EOLhyphen"/>gence, and deuotion; that which is euill, hee would haue him ab<g ref="char:EOLhyphen"/>horre it with hatred, and dete<g ref="char:EOLhyphen"/>ſtation: <hi>Doe I not hate them, O</hi> 
+               <note place="margin">Pſal. 1 39. 21</note> 
+               <hi>Lord, that hate thee? doe I not con<g ref="char:EOLhyphen"/>tend</hi>
+               <pb n="8" facs="tcp:177904:9"/> 
+               <hi>vvith them that riſe vp a<g ref="char:EOLhyphen"/>gainſt thee? I hate them as if they were mine vtter enemies.</hi> It is the great prayſe of the Angell of <hi>E<g ref="char:EOLhyphen"/>pheſus, I know thou canſt not for<g ref="char:EOLhyphen"/>beare</hi> 
+               <note place="margin">Reuel. 2. 2</note> 
+               <hi>them which are euill.</hi> That which is indifferent, he wil haue him vſe with diſcretion, that ſo, in all things hee may ſhew him<g ref="char:EOLhyphen"/>ſelfe <hi>an enſample.</hi>
+            </p>
+            <p>The rule of diſcretion in the <note place="margin">The rule of things indiffe<g ref="char:EOLhyphen"/>rent.</note> vſe of things indifferent, is to conſider expedience; <hi>All things are lawfull, but all things are not</hi> 
+               <note place="margin">1. Cor. 10. 23</note> 
+               <hi>expedient.</hi> Expedience againe requires two conditions, where<g ref="char:EOLhyphen"/>of the one reſpects thy ſelfe, the other thy neighbour. The con<g ref="char:EOLhyphen"/>dition reſpecting thy ſelfe, is ſet downe by the Apoſtle: <hi>I may doe all things, but I will not</hi> 
+               <note place="margin">1. Cor. 6. 12</note> 
+               <hi>come vnder the power of any thing;</hi> for it is dangerous, when indiffe<g ref="char:EOLhyphen"/>rent things, by cuſtome become
+<pb n="9" facs="tcp:177904:9"/> neceſſarie, and keepe the heart of man vnder ſuch commande<g ref="char:EOLhyphen"/>ment, that he cannot be without them; this is to come vnder the power of them. The other con<g ref="char:EOLhyphen"/>dition of expedience reſpecteth thy neighbour, ſhortly ſet down by the Apoſtle, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">1. Cor. 14. 26</note> let all be done to edification, <hi>Let vs follow thoſe things which con<g ref="char:EOLhyphen"/>cerne peace, and wherewith one</hi> 
+               <note place="margin">Rom 14. 19</note> 
+               <hi>may edifie another:</hi> and againe, <hi>Let euery man pleaſe his neigh<g ref="char:EOLhyphen"/>bour</hi> 
+               <note place="margin">Rom. 15. 2</note> 
+               <hi>in that which is good to edi<g ref="char:EOLhyphen"/>fication.</hi> And thus much for the firſt word of our Text. <hi>In all things.</hi> 
+               <note place="margin">A good Bi<g ref="char:EOLhyphen"/>ſhop or Paſtor is the Stampe, or Signet of the Lord.</note>
+            </p>
+            <p>
+               <hi>An enſample.</hi> The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, deriued from the common verb <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignifies a forme made by ingrauing impreſſio<g ref="char:cmbAbbrStroke">̄</g>, or any kind of beating, ſuch as as we ſee are ſtampes, ſeales, or ſignets, which at the pleaſure of the maker re<g ref="char:EOLhyphen"/>ceiue
+<pb n="10" facs="tcp:177904:10"/> ſuch forme in themſelues, as by them they would haue im<g ref="char:EOLhyphen"/>printed in an other. In this ſenſe the word it ſelfe is called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a forme of doctrine, and the <hi>Romanes</hi> are prayſed, <hi>that</hi> 
+               <note place="margin">Rom. 6. 17</note> 
+               <hi>they had obeyed from the heart vn<g ref="char:EOLhyphen"/>to the forme of doctrine, whereunto they were deliuered.</hi> Euen as mol<g ref="char:EOLhyphen"/>lified waxe receiues ſuch a print or forme, when it is applyed to the ſtampe, as is in the ſtampe it ſelfe.</p>
+            <p>Such ſtampes and enſamples <note place="margin">Themſelues ſhould bee ſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ped with Gods image, that they may im<g ref="char:EOLhyphen"/>print it in others. 1. Pet. 5. 3</note> alſo ſhould al good Biſhops and Paſtors be. Saint <hi>Peter</hi> exhorts them to bee enſamples to the flock <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Such an ex<g ref="char:EOLhyphen"/>ample did S. <hi>Paul</hi> ſhew himſelfe, <hi>looke on them, who ſo walke as yee haue vs for an enſample</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <note place="margin">Philip. 3. 17</note> there he vſes the ſame word, requiring nothing of <hi>Ti<g ref="char:EOLhyphen"/>tus,</hi> but that which in his owne
+<pb n="11" facs="tcp:177904:10"/> perſon hee had practiſed before him. It ſtandeth then for a war<g ref="char:EOLhyphen"/>ning to vs all, that wee ſhould take heed with what forme wee are engrauen our ſelues, <hi>whoſe Image, and Superſcription</hi> do we carry: for as a ſignet can make no impreſſion in the waxe, but ſuch as it hath in it ſelfe; ſo if Chriſt bee not formed in thy heart, how canſt thou form him into the heart of another? Or at <note place="margin">An admonitio<g ref="char:cmbAbbrStroke">̄</g> to Church-me<g ref="char:cmbAbbrStroke">̄</g>, that it is a fear<g ref="char:EOLhyphen"/>full laeſae Ma<g ref="char:EOLhyphen"/>ieſtatis, to fal<g ref="char:EOLhyphen"/>ſifie the ſeale of the great King.</note> leſt, if God of his great mercy im<g ref="char:EOLhyphen"/>print that form in another, which is not in thy ſelfe, &amp; make others Chriſtians by thy miniſtry, thou not being a good Chriſtian thy ſelfe, if hee communicate that forme to an other; which thou haſt vitiat and corrupted in thy ſelfe, Is not thy iudgement the greater? Againe, I ſay, let vs remember we are the ſignets of the euerliuing God, and ſhould
+<pb n="12" facs="tcp:177904:11"/> carrie the ſimilitude of God in ourſelues, that we may commu<g ref="char:EOLhyphen"/>nicate it vnto others. It is a point of high treaſon to falſifie the ſeale of the great King, or to ſtamp his people with any other Image then his owne. The Lord preſerue vs, that we be not guil<g ref="char:EOLhyphen"/>ty of this fearefull <hi>laeſae Maieſta<g ref="char:EOLhyphen"/>tis.</hi>
+            </p>
+            <p>It is not then left free to any Biſhop, or Paſtor of whatſoeuer <note place="margin">It is not free to Biſhops, or Pa<g ref="char:EOLhyphen"/>ſtors to liue as they liſt: they ſhould be ex<g ref="char:EOLhyphen"/>amples vnto others.</note> dignity, or place in the Church, to liue as he pleaſeth, and then thinke that he ſhould be follow<g ref="char:EOLhyphen"/>ed in all that liketh him. Let this pride bee left to Antichriſtian Prelates and their Pope. <hi>Caracal<g ref="char:EOLhyphen"/>la</hi> that bloudy and inceſtuous Emperour, learned it from his Step-mother <hi>Iulia,</hi> and they haue receiued it from him; <hi>Im<g ref="char:EOLhyphen"/>peratoris eſse leges dare, non acci<g ref="char:EOLhyphen"/>pere,</hi> their liberty they eſteeme a
+<pb n="13" facs="tcp:177904:11"/> lawe, and their authority an ar<g ref="char:EOLhyphen"/>gument good enough. No, thou art otherwiſe bound by the lawe of God: thou muſt firſt bee for<g ref="char:EOLhyphen"/>med by him thy ſelfe, and accor<g ref="char:EOLhyphen"/>ding to that forme, and none o<g ref="char:EOLhyphen"/>ther, muſt thou conforme his people. S. <hi>Paul</hi> exhorts the <hi>Co<g ref="char:EOLhyphen"/>rinthians</hi> 
+               <note place="margin">1. Cor. 4. 16</note> 
+               <hi>to bee followers of him,</hi> but expounds himſelf in another place; <hi>Be ye followers of mee, as I</hi> 
+               <note place="margin">1. Cor. 11. 1</note> 
+               <hi>am of Chriſt: Yee are the light of the world, take heed that the light</hi> 
+               <note place="margin">Math. 5. 14 Luke 11. 35</note> 
+               <hi>which is in you bee not turned into darkeneſſe:</hi> they who walke not according to this rule, are blind <note place="margin">Mat. 15. 14 Acts 9. 15 Such an en<g ref="char:EOLhyphen"/>ſample was S. PAVL, who carried the meſſage of Chriſt in his mouth, the i<g ref="char:EOLhyphen"/>mage of Chriſt in his life, the markes of Chriſt in his body.</note> and pernicious guides of the people; <hi>For where the blinde lea<g ref="char:EOLhyphen"/>deth the blinde, both muſt fall into the ditch.</hi>
+            </p>
+            <p>A worrhy enſample was Saint <hi>Paul, A choſen Veſſell to beare the name of his Lord,</hi> for he carrieth the meſſage of CHRIST in his
+<pb n="14" facs="tcp:177904:12"/> mouth, the image of Chriſt in his life, the markes of Chriſt in his body <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſuch an <hi>en<g ref="char:EOLhyphen"/>ſample</hi> willeth he <hi>Titus</hi> and all o<g ref="char:EOLhyphen"/>ther Biſhops and Paſtors to be; firſt in themſelues, and then to ſhew it out vnto the others: <hi>Shew thy ſelfe an enſample,</hi> or as the word in the originall more ſig<g ref="char:EOLhyphen"/>nificantly imports, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, exhibite thy ſelfe an enſample: for the ſhewe of a good that is not, endeth in ſhame, <hi>Cum nihl ſimulatum ſit diuturnum.</hi>
+            </p>
+            <p>All Chriſtians are bound to <note place="margin">All Chriſtians are bound to be enſamples, ſhevving out Gods image to others.</note> be good enſamples vnto others; for as no King will admit in his treaſurie counterfait money, nor ſuffer it to go for currant in mer<g ref="char:EOLhyphen"/>chandize among his people, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note place="margin">
+                  <hi>Macar. hom.</hi> 30.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="15" facs="tcp:177904:12"/> euen ſo a ſoule vnleſſe it haue in it the image of Chriſt by ſe<g ref="char:EOLhyphen"/>cret light ingrauen, is not meet to bee gathered into the hea<g ref="char:EOLhyphen"/>uenly treaſure; and the holy A<g ref="char:EOLhyphen"/>poſtles Merchants of the king<g ref="char:EOLhyphen"/>dome, reiect it as counter<g ref="char:EOLhyphen"/>fait money, not rightly ſtam<g ref="char:EOLhyphen"/>ped, which ſhould not be recei<g ref="char:EOLhyphen"/>ned among Saints.</p>
+            <p>But howſoeuer this be a com<g ref="char:EOLhyphen"/>mon <note place="margin">But they are moſt bound who come nee: reſt the Lord by a holy calling.</note> dutie required of all Chri<g ref="char:EOLhyphen"/>ſtians; certaine it is, the neerer men come to the Lord in a holy calling, the more are they bound to be enſamples of holineſs vnto others. In the order of Nature, wee ſee the elements ſeated one aboue another, and according to their place they excell one a<g ref="char:EOLhyphen"/>nother in purity: the earth is the loweſt element, moſt remote from heauen, and it is the groſ<g ref="char:EOLhyphen"/>ſeſt,
+<pb n="16" facs="tcp:177904:13"/> the water naturally compaſ<g ref="char:EOLhyphen"/>ſeth the earth, and is purer then the earth; the ayre is aboue the water, and purer then the water; the fire againe is aboue the ayre, and a purer element then the ayre; the Spheres of Heauen compaſſe all, and are purer then the reſt.</p>
+            <p>As the world, ſo the <hi>Church</hi> 
+               <note place="margin">How the whol Church is a circle, the cen<g ref="char:EOLhyphen"/>tre and cir<g ref="char:EOLhyphen"/>cumference, whereof is the Lord.</note> is a circle, the <hi>Centre</hi> and <hi>Cir<g ref="char:EOLhyphen"/>cumference</hi> whereof is the Lord: he is the <hi>Centre</hi> which drawes al to himſelfe, and in whom all his Saints ſhall meete in one at the laſt; hee is the <hi>Circumference</hi> which compaſſeth vs about to keepe in his Saints, that none of them goe from him. Let it bee ſuppoſed, that there are many circles betweene the <hi>Centre</hi> and the <hi>Circumference,</hi> but theſe which are neereſt the <hi>Centre,</hi> are likeſt vnto it. <hi>I will be ſanctified</hi> 
+               <note place="margin">Leuit. 10. 3</note>
+               <pb n="17" facs="tcp:177904:13"/> (ſayth the Lord) <hi>in all that comes neere me:</hi> the neerer by place &amp; calling thou come to the Lord, the more requires he to be ſanc<g ref="char:EOLhyphen"/>tified in thee. When the Army of <hi>Iſrael</hi> camped in the Wilder<g ref="char:EOLhyphen"/>neſſe, they were caſt in a qua<g ref="char:EOLhyphen"/>drant, three of their Tribes on the Weſt, three on the Eaſt, three on the South, and three on the North: in the middeſt of them was the Arke, they were all bound to be holy; but theſe Le<g ref="char:EOLhyphen"/>uites who came neereſt the Ark, and carried it, were bound to be more holy then others. In the <note place="margin">Reuel. 4. 4</note> new Teſtament the Church is caſt in forme of a circle, in the middeſt whereof God hath his throne: all enioy his preſence, for they are round about him; but as yee may ſee figured by S. <hi>Iohn</hi> in the type thereof, they who are neereſt the Throne,
+<pb n="18" facs="tcp:177904:14"/> excell others in holineſſe.</p>
+            <p>When the Lord proclaimed <note place="margin">A fearefull ex<g ref="char:EOLhyphen"/>ample of iudg<g ref="char:EOLhyphen"/>ment, on ſuch as corrupt their waies in a high and holy calling.</note> his Lawe vpon Mount <hi>Sinai,</hi> the people were parted in 3. rankes: ſome ſtood in the valley, and might not touch the Mount vn<g ref="char:EOLhyphen"/>der paine of death: others, were permitted to goe vp to the Mount, as <hi>Aaron, Nadab Abihu,</hi> 
+               <note place="margin">Exod. 24. 11.</note> with the Nobles of Iſrael, <hi>theſe ſaw the glory of God. Ioſhua</hi> was there alſo, yet none but <hi>Moſes</hi> 
+               <note place="margin">Verſe 18.</note> went vp to the Mount, and en<g ref="char:EOLhyphen"/>tred in the cloud. That fearefull example of <hi>Nadab</hi> and <hi>Abihu,</hi> conſumed with ſtrange fire from heauen, becauſe they became profane and preſumptuous, to offer ſtrange fire to the Lord, e<g ref="char:EOLhyphen"/>uen after that God had prefer<g ref="char:EOLhyphen"/>red them to ſuch high digni<g ref="char:EOLhyphen"/>tie and place aboue their bre<g ref="char:EOLhyphen"/>thren: it ſhould be an aw-band to all thoſe whom GOD hath
+<pb n="19" facs="tcp:177904:14"/> ſet neere to himſelfe by a holy calling, that they corrupt not their wayes before him, but as they are warned by MALACHY, <hi>They keepe themſelues in the Spi<g ref="char:EOLhyphen"/>rit,</hi> leſt the like ſtrange wrath from GOD ſhould ſodainely ouertake them.</p>
+            <p>
+               <hi>Of good workes.</hi> By this ſame <note place="margin">Three rankes of good workes. Tit. 2. 12</note> Apoſtle in this Chapter good workes are diuided into three rankes, for they are eyther workes of <hi>Piety</hi> toward God, or of <hi>Equitie</hi> toward our neigh<g ref="char:EOLhyphen"/>bour, or <hi>Sobriety</hi> toward our ſelues: and theſe bring out a threefold fruite moſt ſweet and excellent: for by them firſt God is glorified: ſecondly thy neigh<g ref="char:EOLhyphen"/>bour is edified: thirdly, thy owne conſcience comforted, and con<g ref="char:EOLhyphen"/>firmed in the aſſurance of thy ſaluation. Of the firſt ſpeaks the Apoſtle: <hi>Let Seruants ſhewe all</hi>
+               <pb n="20" facs="tcp:177904:15"/> 
+               <hi>faithfulneſſe, that they may adorne</hi> 
+               <note place="margin">Tit. 2. 10</note> 
+               <hi>the doctrine of God our Sauiour in all things,</hi> there wee ſee that our <note place="margin">The threefold fruit of them.</note> good works are an ornament to the Goſpell. Of the ſecond, and firſt alſo, ſpeakes our Sauiour: <hi>Let your works ſo ſhine before men, that they ſeeing them, may glorifie</hi> 
+               <note place="margin">Math. 5. 16</note> 
+               <hi>your Father that is in heaue<g ref="char:cmbAbbrStroke">̄</g>:</hi> there we ſee that God is glorified by our godly life, and men there<g ref="char:EOLhyphen"/>by are edified and moued to do it. Of the third ſpeakes S. <hi>Peter, Make ſure your calling and electi<g ref="char:EOLhyphen"/>on</hi> 
+               <note place="margin">2. Pet. 1. 10</note> 
+               <hi>by well doing.</hi> As euery tree is knowne by the fruit, ſo works of grace proue thoſe that haue them, to be a tree planted by pre<g ref="char:EOLhyphen"/>deſtination in the <hi>Paradiſe of God,</hi> 
+               <note place="margin">Pſal. 1.</note> by that <hi>riuer of the water of life,</hi> and that therefore thy leafe ſhall not fade, and thy roote ſhall not periſh, becauſe thou art rooted and grounded in Chriſt Ieſus,
+<pb n="21" facs="tcp:177904:15"/> and groweſt in him, who ſhall for euer conſerue the ſappe of grace in thy ſoule.</p>
+            <p>The aduerſaries calumniate <note place="margin">We are no e<g ref="char:EOLhyphen"/>nemies to good workes, but to the opi<g ref="char:EOLhyphen"/>nion of meri<g ref="char:EOLhyphen"/>ting by them.</note> vs and call vs enemies to good workes; but God forbid wee were ſo. Wee condemne no good works, only we condemne their preſumptuous opinion of the merit of good workes. Me<g ref="char:EOLhyphen"/>riting cauſes of ſaluation they are not, yet are they witneſſing effects thereof, without which a man cannot bee ſaued; not that wee are ſaued by them, but becauſe that iuſtifying faith which whereby wee are ſaued cannot bee without them; <hi>for Faith workes by loue.</hi> In the act <note place="margin">Our workes haue no place in Iuſtificati<g ref="char:EOLhyphen"/>on, but haue all place in ſanctification.</note> of <hi>iuſtification</hi> we affirme good workes haue no place; for a man muſt firſt be iuſtified before he doe any good, <hi>Nam ſequuntur iuſtificatum,</hi> in the worke againe
+<pb n="22" facs="tcp:177904:16"/> of <hi>Sanctification</hi> they want no place: this doctrine they chal<g ref="char:EOLhyphen"/>lenge of noueltie, but indeed it is Apoſtolicke, conſonant alſo to the doctrine of the ancient, and primitiue Church.</p>
+            <p>For that aſſertion of the A<g ref="char:EOLhyphen"/>poſtle, <note place="margin">This doctrine is warranted by the Apo<g ref="char:EOLhyphen"/>ſtle. Rom. 3. 28</note> 
+               <hi>wee conclude that a man is iuſtified by faith without the works of the Lawe,</hi> is equiualent to this, that a man is iuſtified by faith only. And from the Apoſtle the ancient Fathers haue drawn this poſition, <hi>Sola fide iuſtificamur.</hi> 
+               <note place="margin">
+                  <hi>Baſil. de Con<g ref="char:EOLhyphen"/>feſs. fidei.</hi> And Apoſto<g ref="char:EOLhyphen"/>lick doctors of the Church.</note> 
+               <hi>Baſil</hi> in his Treatiſe, <hi>De Confeſsio<g ref="char:EOLhyphen"/>ne fidei</hi> hath it: <hi>Nos non habemus vnde quicquam gloriemur de iu<g ref="char:EOLhyphen"/>ſtitia, cum ex ſola fide in Chriſtum iuſtificemur.</hi> We haue not wher<g ref="char:EOLhyphen"/>of to glorie of righteouſneſſe, ſeeing wee are iuſtified by faith onely in Chriſt Ieſus; and more notable is that teſtimony of <hi>Am<g ref="char:EOLhyphen"/>broſe,</hi> 
+               <note place="margin">
+                  <hi>Ambroſ. in Epiſt. ad Rom. cap.</hi> 3.</note> 
+               <hi>Iuſtifica<g ref="char:cmbAbbrStroke">̄</g>tur gratis quia nihil</hi>
+               <pb n="23" facs="tcp:177904:16"/> 
+               <hi>operantes; ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vicem redde<g ref="char:cmbAbbrStroke">̄</g>tes ſola fide iuſtificati ſunt, dono Dei;</hi> by this one ſentence he cuts away from iuſtification their workes both of congruitie, and condig<g ref="char:EOLhyphen"/>nity, and annulleth their vain di<g ref="char:EOLhyphen"/>ſtinction of a firſt and ſecond iu<g ref="char:EOLhyphen"/>ſtification; and in plaine termes, hee aſcribes our iuſtification to faith only in Chriſt. With theſe concurres <hi>Auguſtine, Quod autem ſequitur, propterea vos non auditis</hi> 
+               <note place="margin">
+                  <hi>Aug. in Io<g ref="char:EOLhyphen"/>an. cap.</hi> 8. <hi>Tract.</hi> 42.</note> 
+               <hi>quia ex Deo non eſtis, jis dictum eſt, qui non fuerant credituri ea fide, qua ſola poſſent a peccatorum obli<g ref="char:EOLhyphen"/>gatione liberari.</hi> And paſſing by many others we adde onely the teſtimony of <hi>Bernard, Quiſquis</hi> 
+               <note place="margin">
+                  <hi>Ber. in Cant, ſer.</hi> 22.</note> 
+               <hi>pro peccatis compunctus eſurit &amp; ſitit iuſtitiam, credat in te qui iuſti<g ref="char:EOLhyphen"/>ficas impium, &amp; ſolam iuſtificatus per fidem pacem habebit ad Deum.</hi> Whoſoeuer hee be that is pric<g ref="char:EOLhyphen"/>ked in his heart with ſorrow for
+<pb n="24" facs="tcp:177904:17"/> his ſinnes, and hungers &amp; thirſts <note place="margin">Iuſtification by faith only is the ancient doctrine of the Church.</note> for righteouſneſſe, let him be<g ref="char:EOLhyphen"/>leeue in thee who iuſtifieſt ſin<g ref="char:EOLhyphen"/>ners, and ſo being iuſtified by faith onely hee ſhall haue peace with God. Let them now ceaſe to glory of antiquity, let them thinke ſhame to charge vs with nouelty, if they bee not paſt all bounds of ſhame, for it is mani<g ref="char:EOLhyphen"/>feſt to the indifferent reader that we teach no other way now, then the Apoſtles and approued Do<g ref="char:EOLhyphen"/>ctors of elder times haue taught before vs.</p>
+            <p>But leauing this, I wiſh diſ<g ref="char:EOLhyphen"/>puting <note place="margin">Good workes are witneſſes of our faith &amp; ſeales of our ſaluation.</note> about good workes were turned into doing: we haue all learned in this age to put good workes out of the chaire of me<g ref="char:EOLhyphen"/>rit, and iuſtly, for none ſhould ſit in that chaire but Chriſt Ieſus; but wee haue not all learned to giue them their owne place in
+<pb n="25" facs="tcp:177904:17"/> the matter of ſaluation: though they bee not as I ſayd meriting cauſes, yet are they witneſſes of thy faith and ſeales of thy ſalua<g ref="char:EOLhyphen"/>tion: thou art not now iuſtified by them, yet ſhalt thou bee iud<g ref="char:EOLhyphen"/>ged by them, and tryed whether if or not thou wert iuſtified in CHRIST IESVS Oh that our <note place="margin">A iuſt reproofe of fruitleſſe profeſſors.</note> fruitleſſe profeſſors would con<g ref="char:EOLhyphen"/>ſider this! Tell me, I pray you, what haue yee to witneſſe with you that yee are Chriſtians? your word ſayes ye are ſo; but all your works witneſſe againſt you: your vncleane eyes, your diſſo<g ref="char:EOLhyphen"/>lute ſpeech, your vaine apparell, your polluted hands, your wan<g ref="char:EOLhyphen"/>dring feete: all theſe proclaime <note place="margin">
+                  <hi>Chryſoſt. in Math. hom.</hi> 4.</note> you to be Pagans; onely with your tongues ye ſay ye are Chri<g ref="char:EOLhyphen"/>ſtians: yee feed not the hungry, ye cloath not the naked, ye viſit not the ſick, theſe are the works,
+<pb n="26" facs="tcp:177904:18"/> and ſuch like that wil be brought out as witneſſes, either with vs and for vs, or then againſt vs. Be not then deceiued to thinke that thy naked word wil proue thee a Chriſtian, when none of the workes of Chriſt can bee ſeene in thee.</p>
+            <p>But it ſeems, many Profeſſors <note place="margin">Theſe haue not learned to ſhew their faith by works.</note> are feared for the curſe of the <hi>Phariſies</hi> on whom Chriſt pro<g ref="char:EOLhyphen"/>nounced a woe, becauſe they did their workes to be ſeene of men; they ſay they do good, but neuer man ſaw it: they haue not lear<g ref="char:EOLhyphen"/>ned that leſſon of S. <hi>Iames,</hi> to <note place="margin">Iam. 2. 18.</note> ſhewe their faith out of their workes; for whom it were bet<g ref="char:EOLhyphen"/>ter that they ſhould be afraid leſt they bee curſed with that figge<g ref="char:EOLhyphen"/>tree, which a farre off ſeemed fruitful, but when our Lord came neere and looked into it, long<g ref="char:EOLhyphen"/>ing for ſome fruit, he found none
+<pb n="27" facs="tcp:177904:18"/> at all, and therefore curſed it.</p>
+            <p>It was well obſerued by <hi>Au<g ref="char:EOLhyphen"/>guſtine,</hi> 
+               <note place="margin">A good worke ſincerely done the more pub<g ref="char:EOLhyphen"/>licke it be, is the more pro<g ref="char:EOLhyphen"/>fitable.</note> that a good work if it be done in ſincerity, the more puh<g ref="char:EOLhyphen"/>licke it be, the more profitable it is: as namely, when almes out of a good heart is giuen in publick; not only is he benefited that gets it, but ſuch as ſee it are edified thereby. Seeing it is ſo, that our works muſt be our witneſſes, let vs all indeuour to be more abun<g ref="char:EOLhyphen"/>dant in them. To moue vs here<g ref="char:EOLhyphen"/>unto, I conclude this point with this two-fold conſideration. Firſt when thy ſoule ſhall be ſundred from thy body, the good thou haſt done in thy body ſhall ne<g ref="char:EOLhyphen"/>uer bee ſundred from thy ſelfe, but ſhall goe with thee. <hi>Bleſſed</hi> 
+               <note place="margin">Reuel. 19 A twofold co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>fortable fruit of good works</note> 
+               <hi>are the dead that dye in the Lord, for they reſt from their labour, and their works follow them.</hi> Second<g ref="char:EOLhyphen"/>ly, when thou art dead in thy bo<g ref="char:EOLhyphen"/>dy
+<pb n="28" facs="tcp:177904:19"/> and ſundred from men; yet ſhalt thou ſtill liue in thy workes, and haue thy memory conſer<g ref="char:EOLhyphen"/>ued among men. <hi>Therefore ſo long as we haue time, let vs do good.</hi>
+            </p>
+            <p>
+               <hi>In Doctrine.</hi> The conſtructi<g ref="char:EOLhyphen"/>on <note place="margin">The conſtru<g ref="char:EOLhyphen"/>ction of the words cleared.</note> of the Text following, is ſomewhat more difficult; firſt be<g ref="char:EOLhyphen"/>cauſe of the defect or concea<g ref="char:EOLhyphen"/>ling of ſome word, for either the preceding word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> muſt be repeated, or ſome other equi<g ref="char:EOLhyphen"/>ualent to it vnderſtood; next for the change of the caſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and thirdly, for mutation of the change of ſpeech; for the Apoſtle ſpeakes here <hi>in Abſtracto,</hi> not content to ſay, ſhew thy ſelfe an vpright, <note place="margin">A good Paſtor is a vocall and working ver<g ref="char:EOLhyphen"/>tue.</note> and a graue man <hi>in concreto:</hi> but which is much more ſignificant, ſhew thy ſelfe vprightneſſe, gra<g ref="char:EOLhyphen"/>uity and integrity it ſelfe: thus in effect will the Apoſtle haue a Bi<g ref="char:EOLhyphen"/>ſhop
+<pb n="29" facs="tcp:177904:19"/> or Paſtor, to be a <hi>working, and a vocall vertue,</hi> breathing, working, ſhewing out nothing in all the parts of his conuerſati<g ref="char:EOLhyphen"/>on but Vertue it ſelfe.</p>
+            <p>This word <hi>in Doctrine,</hi> ſome <note place="margin">Then is do<g ref="char:EOLhyphen"/>ctrine a preci<g ref="char:EOLhyphen"/>ous pearle, when good workes goe before, and follow af<g ref="char:EOLhyphen"/>ter it.</note> interpreters referre <hi>ad Antece<g ref="char:EOLhyphen"/>dentia,</hi> and read them this way, Shew thy ſelfe an exemplar of good works in doctrine, that is, agreeable to the doctrine; ſo doth the iudicious <hi>Caluine;</hi> o<g ref="char:EOLhyphen"/>thers referre it <hi>ad Conſequentia,</hi> and reade it with the words fol<g ref="char:EOLhyphen"/>lowing: In doctrine, ſhew inte<g ref="char:EOLhyphen"/>gritie, grauitie, and wholſome ſpeech but the matter is all one. Then is doctrine a bright ſhi<g ref="char:EOLhyphen"/>ning pearle, when it hath good workes going before it, and fol<g ref="char:EOLhyphen"/>lowing after it: and therfore the Apoſtle here wiſely pleaceth do<g ref="char:EOLhyphen"/>ctrine in the middeſt of good workes.</p>
+            <pb n="30" facs="tcp:177904:20"/>
+            <p> 
+               <hi>Aaron</hi> in his pectorall Orna<g ref="char:EOLhyphen"/>ment <note place="margin">This is like Aaron his V<g ref="char:EOLhyphen"/>rim &amp; Thum<g ref="char:EOLhyphen"/>mim.</note> had not <hi>Vrim</hi> without <hi>Thummim:</hi> light of knowledge is comely when it hath with it perfection, and integritie of ho<g ref="char:EOLhyphen"/>lineſſe. To a Preacher good doctrine without a good life procureth double ſhame and iudgemenr. <hi>Dicta nam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> factis deficientibus erubeſcunt.</hi> Words may moue, but workes moue more, <hi>Validior vox operis quam o<g ref="char:EOLhyphen"/>ris.</hi> And on the other hand a good life is not ſufficient in him without good doctrine. A Bi<g ref="char:EOLhyphen"/>ſhop ſhould bee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> one that is apt to teach, and as hee ſhould haue the gift, ſo is hee bound to beſtow it on others: yea, to put his Maſters Talent to the vttermoſt profit. A neceſ<g ref="char:EOLhyphen"/>ſity lies vpon him to preach, and wo wilbe vnto him if he preach not. Certainely if thou looſe
+<pb n="31" facs="tcp:177904:20"/> this glory, To Preach the <hi>E<g ref="char:EOLhyphen"/>uangell of glory, all other thy glory</hi> 
+               <note place="margin">He will neuer bee a good Doctor of the Church, who is not a good Diſciple of Chriſt. Act. 1. 1</note> 
+               <hi>ſhall be turned into ſhame</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, wee are the ſeruants of that Lord, of whom it is ſayd, <hi>hee began to doe and to to teach.</hi> Let vs learne of our Lord, he ſhall neuer be a good Doctor of the Church, who is not firſt a good diſciple of Ieſus: in theſe two is compriſed our whole duty, to do and to teach, it is not enough to doe if wee teach not; farre leſſe to teach, if we doe not: let no man ſeparate theſe things which God hath conioyned together.</p>
+            <p>And yet wee muſt conſider, <note place="margin">An vnrebuke<g ref="char:EOLhyphen"/>able life may be in Hereticks without whol<g ref="char:EOLhyphen"/>ſome doctrine.</note> that ſometime a good life, at leaſt vnrebukeable in the eyes of man, may be where the whol<g ref="char:EOLhyphen"/>ſome doctrine is not, that wee ſuffer not our ſelues to bee ſo farre deceiued; as to imbrace
+<pb n="32" facs="tcp:177904:21"/> deadly and poiſoned doctrine for the appearing ſhew of an ho<g ref="char:EOLhyphen"/>ly life. This was wiſely obſer<g ref="char:EOLhyphen"/>ued by <hi>Chryſoſtom,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that of<g ref="char:EOLhyphen"/>tentimes among Heretickes a good life may bee found, of whom notwithſtanding the way to eternal life cannot be learned. I marke this for theſe ſimple ones, who deceiued with a ſhew of ſanctity in the Popes Church, <note place="margin">This is neceſ<g ref="char:EOLhyphen"/>ſary to be mar<g ref="char:EOLhyphen"/>ked, that ſim<g ref="char:EOLhyphen"/>ple ones bee not deceiued with ſhew of ſanctitie.</note> are therby induced to embrace their damnable doctrine, and ſo become a prey to the Diuel, ſna<g ref="char:EOLhyphen"/>red with the net of religion. A dangerous euill, when deuou<g ref="char:EOLhyphen"/>ring Wolues come in Sheepes cloathing. The Diuell hateth Chriſt Ieſus deadly, and is neuer ſo much to be feared, as when he ſpeakes moſt in fauour of his cauſe: and then are his inſtru<g ref="char:EOLhyphen"/>ments moſt pernicious, when
+<pb n="33" facs="tcp:177904:21"/> 
+               <hi>they transforme themſelues into</hi> 
+               <note place="margin">2. Cor. 11. 14</note> 
+               <hi>Angels of light, and looke like Mi<g ref="char:EOLhyphen"/>niſters of righteouſneſſe;</hi> that is, when vnder colour of a holy life: they preſent to poore people a cup of deadly poyſon. Many haue fallen by this tentation. For ſtrengthening therefore o<g ref="char:EOLhyphen"/>thers againſt it, I will inſiſt a lit<g ref="char:EOLhyphen"/>tle to diſcouer it.</p>
+            <p>
+               <hi>Ioſephus</hi> in his Antiquities re<g ref="char:EOLhyphen"/>cords, <note place="margin">
+                  <hi>Ioſeph. An<g ref="char:EOLhyphen"/>tiq. lib.</hi> 13. <hi>cap.</hi> 18. The Phariſes of old liued a moſt ſtrait life.</note> that the <hi>Phariſes Nundi<g ref="char:EOLhyphen"/>naria quadam ſanctitate animos ho<g ref="char:EOLhyphen"/>minum ita ſibi conciliabant, vt quod ipſi dicerent, vel facerent, ius &amp; fas ab omnibus crederetur,</hi> by a certaine nundinarie or mer<g ref="char:EOLhyphen"/>cat-meete ſanctity, they vſed to make merchandiſe of men, and did in ſuch ſort co<g ref="char:cmbAbbrStroke">̄</g>ciliat or ſteale their harts vnto themſelues, that whatſoeuer they did or ſayd was credited and beleeued of al men to bee right and lawfull. The
+<pb n="34" facs="tcp:177904:22"/> ſtraitneſſe of their life is recor<g ref="char:EOLhyphen"/>ded by <hi>Epiphanius, Virginitati &amp;</hi> 
+               <note place="margin">Epiphan.</note> 
+               <hi>continentiae ſtudebant, frequenter orabant, duriſsimis ſtratis cuba<g ref="char:EOLhyphen"/>bant, bis in Sabbato ieiunabant, ſecunda &amp; quinta die,</hi> that they profeſſed Virginitie and conti<g ref="char:EOLhyphen"/>nency, and ſtudied to keep them<g ref="char:EOLhyphen"/>ſelues euery way vnſpotted, they prayed frequently, they lay vp<g ref="char:EOLhyphen"/>on hard and vneaſie beds, they faſted twiſe euery weeke, to wit, the ſecond day, and the fift: and ſuch was their zeale to propa<g ref="char:EOLhyphen"/>gate their Phariſaiſme, that as our Sauiour ſayth, they ſpared not to compaſſe Sea and land, to make one of their owne pro<g ref="char:EOLhyphen"/>feſſion. What more, I pray you, is done by any of theſe pretended religious Orders in the Romane Church, then is heere recorded of Phariſes? yet are they both, the one and
+<pb n="35" facs="tcp:177904:22"/> the other, deceiued, and decei<g ref="char:EOLhyphen"/>uing heretickes.</p>
+            <p>Baſtard worſhippers haue e<g ref="char:EOLhyphen"/>uer <note place="margin">The Prieſts of Baal, and ido<g ref="char:EOLhyphen"/>latrous Iſrae<g ref="char:EOLhyphen"/>lites did ſo in like manner.</note> made a greater ſhew of piety in externall things, then the true either could or would doe: Truth muſt not be meaſured by zeale, but zeale muſt bee iud<g ref="char:EOLhyphen"/>ged by Truth. The Prieſts of <hi>Baal</hi> in not ſparing their fleſh, were much more ſeuere then the Poenitentiars of <hi>Rome,</hi> for they launced their fleſh with ſharpe kniues.</p>
+            <p>The Oblation of Idolatrous <hi>Iſraelites</hi> exceeded farre in value the donation of lands, or rents, which Papiſts make out of their blinde zeale; for they ſacrifi<g ref="char:EOLhyphen"/>ced their owne children, and burnt them quicke, eſteeming that in ſo doing, they did imi<g ref="char:EOLhyphen"/>tate the example of their father <hi>Abraham,</hi> but when they thoght
+<pb n="36" facs="tcp:177904:23"/> they were wiſe, they were foo<g ref="char:EOLhyphen"/>liſh, their fact could not bee like <hi>Abrahams,</hi> becauſe they wanted the warrant which <hi>A<g ref="char:EOLhyphen"/>braham</hi> had.</p>
+            <p>The <hi>Phariſies</hi> of this time <note place="margin">The Phariſes of our time make a muſte<g ref="char:EOLhyphen"/>ring of their merits alſo.</note> make a great muſtering of their meritorious deedes: their hoſpi<g ref="char:EOLhyphen"/>tals, their almes, their faſting, their multiplying of prayers vp<g ref="char:EOLhyphen"/>on beades and ſuch like, are brought to the ſimpler ſort, as arguments to proue the veritie of their religion, &amp; allurements to induce them to embrace it; but in this, as they are not vnlike to that young man who ſayd vn<g ref="char:EOLhyphen"/>to our Lord, <hi>All theſe Comman<g ref="char:EOLhyphen"/>deme<g ref="char:cmbAbbrStroke">̄</g>ts haue I kept from my youth,</hi> eſteeming themſelues much <note place="margin">Mar. 10. 21</note> more perfect then indeed they are; yet let them bee content with his anſwere. Any good that they doe, we loue it: yea for the
+<pb n="37" facs="tcp:177904:23"/> loue of good, we do euen loue the appearance of it, as by the contrarie, we are taught not on<g ref="char:EOLhyphen"/>ly to hate euill, but to <hi>abſtaine</hi> 
+               <note place="margin">But no good worke can be, where whol<g ref="char:EOLhyphen"/>ſome doctrine is not.</note> 
+               <hi>from appearance of euill.</hi> And thus farre let them be loued with that young man, but here-withall let them know that one thing yet is lacking vnto them, and ſuch an one thing, as without which all other things are nothing: for true holineſſe cannot bee where wholſome doctrine is not.</p>
+            <p>If they would conſider this <note place="margin">All will wor<g ref="char:EOLhyphen"/>ſhip is abomi<g ref="char:EOLhyphen"/>nation to the Lord.</note> matter, and lay by a little their owne preiudicate and foreſtalled opinions, the ſimilitude that He<g ref="char:EOLhyphen"/>retickes haue with them in theſe chiefeſt points, wherein they place their greateſt ſanctity, they might eaſily ſee that all their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which in their dark<g ref="char:EOLhyphen"/>ned iudgement is the true wor<g ref="char:EOLhyphen"/>ſhip of God, is nothing els but
+<pb n="38" facs="tcp:177904:24"/> the birth of mans braine, the fruit of his own inuention, wher<g ref="char:EOLhyphen"/>vnto corrupt nature hath led o<g ref="char:EOLhyphen"/>thers who were neuer illuminate with the true light of God, but is not pietie which floweth from faith, and is warranted by the word, and acceptable to God in Chriſt Ieſus.</p>
+            <p>For I pray you what is there <note place="margin">Nothing this day concer<g ref="char:EOLhyphen"/>ning auſtere life among Rom. Eremits, which was not of old among Iewiſh Eſſaei.</note> to bee found this day, euen a<g ref="char:EOLhyphen"/>mong their <hi>Separate and Solitary</hi> men, which was not of old in the corrupt Church of the <hi>Iewes</hi> a<g ref="char:EOLhyphen"/>mong the Haeretiques called <hi>Eſſaei,</hi> reſembling very neerely their Monkes and religious Her<g ref="char:EOLhyphen"/>mits? Of whom <hi>Philo</hi> the lear<g ref="char:EOLhyphen"/>ned <hi>Iew</hi> writes in this manner. <hi>In Palaeſtina ſunt quidam nomine</hi> 
+               <note place="margin">Philo. lib. quem inſcri<g ref="char:EOLhyphen"/>bit omnes bo<g ref="char:EOLhyphen"/>nos eſſe libe<g ref="char:EOLhyphen"/>ros.</note> 
+               <hi>Eſſaei numero vltra</hi> 400. <hi>a voce graeca Eſſaei, quaſi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſancti vo<g ref="char:EOLhyphen"/>cati, quoniam dei cultores praecipui ſant, nulla ammalia ſacrificantes,</hi>
+               <pb n="39" facs="tcp:177904:24"/> 
+               <hi>ſed mentes ſacras deo offerentes, hi vicatim habitant, vrbes vitantes, perpetuam caſtitatem adhibent, ius iurandum, &amp; mendacium non di<g ref="char:EOLhyphen"/>cunt, pecuniam &amp; gloriam negli<g ref="char:EOLhyphen"/>gunt, aurum &amp; argentum non re<g ref="char:EOLhyphen"/>condunt, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> latos agros parant, cupiditate reddituu<g ref="char:cmbAbbrStroke">̄</g> ſed neceſsitate victus, vna omnibus eſt domus, v<g ref="char:EOLhyphen"/>na veſtis, deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> communis victus &amp; vita.</hi> In Paleſtina (ſayth he) <note place="margin">A deſcription of the religi<g ref="char:EOLhyphen"/>ous manners of Eſſaei.</note> are a ſort of men called <hi>Eſſaei,</hi> as much as to ſay, holy men, they are more in number then foure hundreth, they ſacrifice no beaſts but holy mindes to the Lord, they come not in Cities nor Townes, they profeſſe Chaſtity, they will neither ſweare nor lye, they deſpiſe gold, and glory, cra<g ref="char:EOLhyphen"/>uing no more then may ſerue their neceſſity, they haue all one houſe, one kind of garment, they haue all the ſame food, and the
+<pb n="40" facs="tcp:177904:25"/> ſame manner of life. <hi>Ioſephus</hi> ad<g ref="char:EOLhyphen"/>deth thus much more of them. <hi>Quod nupti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s reſpuant, bonaſua cum ſociis communicent, nec veſti<g ref="char:EOLhyphen"/>tum,</hi> 
+               <note place="margin">Ioſeph. An<g ref="char:EOLhyphen"/>tiquit.</note> 
+               <hi>nec calceum nouum miſi vete<g ref="char:EOLhyphen"/>ribus attritis ſumant, &amp; inter veſcendum ſummum ſilentium ad<g ref="char:EOLhyphen"/>hibeant:</hi> that they deſpiſe mari<g ref="char:EOLhyphen"/>age, <note place="margin">How theſe are reuiued againe by the Monkes and Eremits of our time.</note> all good things are com<g ref="char:EOLhyphen"/>mon among them, they take no new garment nor new ſhooes till the old bee worne; and when they are at dinner or ſupper there is great ſilence among them. In a word, if a man would diligently conſider euery thing written of them, and compare their time with this, he would verily thinke that the very image of theſe Hereticks were reuiued and quickned againe by Monkes and Hermites of our time.</p>
+            <p>Among many reaſons alleged by a certaine Ieſuite, <hi>Chriſtianus</hi>
+               <pb n="41" facs="tcp:177904:25"/> 
+               <hi>Franken,</hi> which induced him to <note place="margin">The conſide<g ref="char:EOLhyphen"/>ration that Pa<g ref="char:EOLunhyphen"/>piſtrie is but a naturall re<g ref="char:EOLhyphen"/>ligion, hath moued Ieſuites to reuolt from it.</note> conuert to the true, ancient, Ca<g ref="char:EOLhyphen"/>tholicke and Apoſtolicke religi<g ref="char:EOLhyphen"/>on profeſſed by vs, this was one: by the ſimilitude which naturall men, not illuminated with the light of the Euangel, haue with the Romiſh religion, hee was moued to thinke it was not di<g ref="char:EOLhyphen"/>uine but humane, ſeeing they by natures light onely had attai<g ref="char:EOLhyphen"/>ned vnto it. He makes mentio<g ref="char:cmbAbbrStroke">̄</g> of a certaine letter written to their ſociety, from one of their owne Order trauelled among our <hi>An<g ref="char:EOLhyphen"/>tipodes,</hi> called <hi>Iaponii,</hi> wherein is declared, that among them there is a religious ſort of men, named <hi>Iamambuxae,</hi> that is, <hi>mili<g ref="char:EOLhyphen"/>tes conuallium,</hi> who haue a reli<g ref="char:EOLhyphen"/>gion formed out of Natures light, very like to Romiſh Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p>For firſt to purchaſe to them<g ref="char:EOLhyphen"/>ſelues
+<pb n="42" facs="tcp:177904:26"/> the name of ſanctity, they <note place="margin">Our Antipo<g ref="char:EOLhyphen"/>des Iaponij by natures dark<g ref="char:EOLhyphen"/>ned light, haue framed a reli<g ref="char:EOLhyphen"/>gion very like the Papiſtick</note> greatly puniſh their owne bo<g ref="char:EOLhyphen"/>dies they are much giuen to watching and long faſting, their exerciſe is in certaine meditati<g ref="char:EOLhyphen"/>ons compoſed by themſelues, wherein they profit ſo farre, that oftentimes they are thought in<g ref="char:EOLhyphen"/>ſpired with a heauenly Spirit, to poure out diuine Oracles, and are eſteemed to be holy and per<g ref="char:EOLhyphen"/>fect men. This is one point, the iuſt ſimilitude wherof is cleare in the Church of Rome, for they haue their owne ſuperſtitious Saints whom they worſhip for holy and perfect men: whoſe <hi>Enthuſiaſmes,</hi> dreames, viſions, and pretented reuelations, are in ſtead of diuine Oracles vnto their poore blinded people.</p>
+            <p>Theſe haue ouer them a cer<g ref="char:EOLhyphen"/>taine <note place="margin">Vnder the two poles are two Popes, a Iapo<g ref="char:EOLhyphen"/>nian and an Italian.</note> 
+               <hi>head,</hi> whom they worſhip almoſt as a God: his people
+<pb n="43" facs="tcp:177904:26"/> reputes him and ſtiles him to be moſt holy, they ſuffer him not to touch the earth with his feet, he hath large dominions &amp; oft<g ref="char:EOLhyphen"/>times makes battaile with pro<g ref="char:EOLhyphen"/>fane Kings. What can a man thinke when he reades this, but as our <hi>Antipodes</hi> haue a pole a<g ref="char:EOLhyphen"/>gainſt our pole, ſo haue they a <hi>Iaponian</hi> Pope ouer againſt an <hi>I<g ref="char:EOLhyphen"/>talian</hi> Pope, who when he ſhall heare of <hi>Peters</hi> keyes, will thinke hee hath as good right to the one key, for gouernment of the Churches vnder the <hi>South</hi> pole, as the <hi>Italian Pope</hi> hath to the o<g ref="char:EOLhyphen"/>ther, <note place="margin">Theſe two wil not agree that one of them ſhould haue both the keyes of S. Peter.</note> whereby hee pretends a power ouer Churches vnder the North pole. And verily I thinke the <hi>Italian Pope</hi> contending for both may happily looſe both. And for my own part I haue no doubt, ſeeing I am warranted by the Word, that before the Lord
+<pb n="44" facs="tcp:177904:27"/> moue the poles and fold vp the heauens like a garment, hee will firſt remoue this Beaſt out of his throne, and conſume him like ſnow that melteth before the Sunne. His greateſt defenders, the moſt learned of the Ieſu<g ref="char:EOLhyphen"/>ites, <note place="margin">Blaſ-viega. Fran. Ribera in Apocal.</note> ſay it: yea they plainly con<g ref="char:EOLhyphen"/>feſſe it. The Lord haſten the time, wherein his Maieſty will performe it.</p>
+            <p>This head vnder him againe <note place="margin">Vnder the Ia<g ref="char:EOLhyphen"/>ponian Pope, are chiefe Church men anſwerable to Romiſh Cardi<g ref="char:EOLhyphen"/>nals.</note> hath <hi>Tundos,</hi> honourable and chiefe men in the Clergy, crea<g ref="char:EOLhyphen"/>ted and confirmed by himſelfe; thoſe haue power to giue Prieſt<g ref="char:EOLhyphen"/>hood vnto others, they appoint faſtings to the people when vp<g ref="char:EOLhyphen"/>on religious dayes they goe in pilgrimage: theſe properly re<g ref="char:EOLhyphen"/>ſemble <hi>Cardinals,</hi> and Antichri<g ref="char:EOLhyphen"/>ſtian Prelates, who receiue ſuch power from the Beaſt, as he plea<g ref="char:EOLhyphen"/>ſeth to impart vnto them.</p>
+            <pb n="45" facs="tcp:177904:27"/>
+            <p> Next vnder them are <hi>Bontu:</hi> 
+               <note place="margin">Vnder them a<g ref="char:EOLhyphen"/>gaine inferior Cleargy men, ſuch as Monks &amp;c. with</note> theſe are <hi>Iaponian</hi> Monkes, and haue no authority, vnleſſe their ſupreme head confirm them by his Bull and letters teſtimoniall; theſe haue ample <hi>Abbacies, Coe<g ref="char:EOLhyphen"/>nobia</hi> 
+               <note place="margin">Abbacies.</note> (ſayth hee) like vnto ours: they haue an Altar in the midſt of their Temple, wherein the i<g ref="char:EOLhyphen"/>mage of <hi>Amida</hi> carued in tim<g ref="char:EOLhyphen"/>ber <note place="margin">Images.</note> worke, is ſet vpon a roſe cu<g ref="char:EOLhyphen"/>riouſly carued alſo of timber worke very pleaſant to behold; they haue great <hi>Bibliothees,</hi> and <note place="margin">Bibliothees.</note> a common houſe wherein they eate al together, they haue ſoun<g ref="char:EOLhyphen"/>ding <note place="margin">Buildings.</note> inſtruments of braſſe, wher<g ref="char:EOLhyphen"/>by <note place="margin">Bells.</note> they are wakened to their houres of prayer from midnight to morning: before their Altar in the Temple, they ſit in ſeates of their Queere oppoſite one to another, rehearſing their ma<g ref="char:EOLhyphen"/>tine prayers. At the breake of <note place="margin">Matutine ſongs.</note>
+               <pb n="46" facs="tcp:177904:28"/> day euery one of them ſpendeth an houre in priuate meditation: when their nobles haue mo chil<g ref="char:EOLhyphen"/>dren then they can prouide for, they enter them into the Order of <hi>Brontii.</hi> Many mo like theſe <note place="margin">In theſe and many other haue the Iapo<g ref="char:EOLhyphen"/>nian great ſi<g ref="char:EOLhyphen"/>militude with the Italian.</note> recordeth he, which were long to recite now; but all of them as cleerely reſembling the manner of the ſuperſtitious Roman wor<g ref="char:EOLhyphen"/>ſhip, as one egge is like to ano<g ref="char:EOLhyphen"/>ther. And yet, ſayth he, theſe <hi>Brontii</hi> vnder pretext of chaſtity and holineſſe, are in life and manners moſt profane and fil<g ref="char:EOLhyphen"/>thy, they are of all men moſt greedy, and haue innumerable wayes to empty the purſes of people, &amp; make gaine to them<g ref="char:EOLhyphen"/>ſelues; they ſell vnto the ſimpler ſort, <hi>multa Chirographa,</hi> many hand-writs, by which (the com<g ref="char:EOLhyphen"/>mon <note place="margin">Namely in the comfortleſſe comfort they giue their peo<g ref="char:EOLhyphen"/>ple in the houre of death.</note> people ſufficiently fenced againſt euill ſpirits) they borrow
+<pb n="47" facs="tcp:177904:28"/> ſiluer which in the life to come they promiſe to repay with dou<g ref="char:EOLhyphen"/>ble vantage, and for ſurety, they giue their hand-writ to him from whom they got, that when he dyes hee may carrie it with him <hi>ad inferos;</hi> a very image of that vile nundination, whereby our popiſh Prieſts make <hi>mer<g ref="char:EOLhyphen"/>chandiſe</hi> 
+               <note place="margin">Reuel.</note> 
+               <hi>of the ſoules of men,</hi> and ſteale from them their goods by Maſſes, Pardons, Indulgences, and ſuch like trumpery, whereby the poore blinded people be<g ref="char:EOLhyphen"/>leeue to be eaſed of the paines of Purgatory.</p>
+            <p>This I ſay among many other <note place="margin">How the Ieſu<g ref="char:EOLhyphen"/>ite Franke<g ref="char:cmbAbbrStroke">̄</g> was moued by this conſideration.</note> arguments mooued that <hi>Ieſuite</hi> to a certaine iealoſie and ſuſpi<g ref="char:EOLhyphen"/>tion of the Romiſh religion, that it was but carnall; which will beſt appeare by his owne words.</p>
+            <p>
+               <hi>Haec &amp; multa eiuſmodi a<g ref="char:EOLhyphen"/>lia, cum ex literis illis a noſtri</hi>
+               <pb n="48" facs="tcp:177904:29"/> 
+               <hi>ordinis hominibus ſcriptis, cognouiſ<g ref="char:EOLhyphen"/>ſem, obſtupui ſcilicet, tam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cohor<g ref="char:EOLhyphen"/>rui quam ſi ex aſtris in terram re<g ref="char:EOLhyphen"/>lapſus fuiſſem. Occurrebat enim menti meae ſubito, nihil noſtrae in<g ref="char:EOLhyphen"/>ueniri poſſe religioni ſimilius, qua<g ref="char:EOLhyphen"/>re vehementer timendum eſſe, ne omnis haec noſtra ſpiritualis viuen<g ref="char:EOLhyphen"/>di ratio, non diuina ſit, ſed humana tantum &amp; Philoſophica, quod eam vel idololatrae, &amp; ethnici homines Euangelij luce carentes aſſequan<g ref="char:EOLhyphen"/>tur, &amp; quidem tales Ethnici qui natura, moribus, ingenio, noſtris Europaeis ingenioſioribus (Italis puta &amp; Hiſpanis) perſimiles dicun<g ref="char:EOLhyphen"/>tur, quiuis tam vt intelligat, a ſi<g ref="char:EOLhyphen"/>milibus naturis &amp; ingenijs, ſimil<g ref="char:EOLhyphen"/>limas inuentas &amp; conſtitutas eſſe religiones.</hi>
+            </p>
+            <p>Theſe, and many more like theſe, when I vnderſtood by cer<g ref="char:EOLhyphen"/>taine <note place="margin">To thinke that the Ieſuiticall deuotion was not diuine but humane.</note> letters written from ſome of our owne ſociety, I was aſto<g ref="char:EOLhyphen"/>niſhed;
+<pb n="49" facs="tcp:177904:29"/> yea, I quaked and trem<g ref="char:EOLhyphen"/>bled as if I had fallen from hea<g ref="char:EOLhyphen"/>uen to the earth: for, it ſodainly ſtrook in my mind that nothing could be found in the world li<g ref="char:EOLhyphen"/>ker our religion; wherefore, it is greatly to be feared, leſt all this kinde of ſpirituall life which wee liue be not diuine, but hu<g ref="char:EOLhyphen"/>mane onely and philoſophicke, becauſe the very idolaters and Ethnicke men, wanting the light of the Euangel, haue attai<g ref="char:EOLhyphen"/>ned vnto it; and ſuch Ethnicks who in nature, manners, and in<g ref="char:EOLhyphen"/>genie, are ſaid to be very like our more ingenious Europaeans, I<g ref="char:EOLhyphen"/>talians namely and Spaniards, ſo that any man may eaſily vn<g ref="char:EOLhyphen"/>derſtand that of the like natures and ingenies, the like religions haue been inuented, and eſtabli<g ref="char:EOLhyphen"/>ſhed. And he addeth yet more.</p>
+            <p>
+               <hi>Quid? quod apud eoſdem Iapo<g ref="char:EOLhyphen"/>nios</hi>
+               <pb n="50" facs="tcp:177904:30"/> 
+               <hi>non noſtra tantum religio, ſed</hi> 
+               <note place="margin">Yea, not the Ieſuitical only, but the whole Religion Ro<g ref="char:EOLhyphen"/>mane is from an Ethnicke Spirit.</note> 
+               <hi>tota ferme Eccleſia Romana Ethni<g ref="char:EOLhyphen"/>co ſpiritu fundata, conſtituta<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cer<g ref="char:EOLhyphen"/>natur: nam &amp; aquam habent lu<g ref="char:EOLhyphen"/>ſtralem: multas, &amp; magnas indul<g ref="char:EOLhyphen"/>gentias Brontii populo in con cioni<g ref="char:EOLhyphen"/>bus perſeueranti, &amp; Caenobia ipſo<g ref="char:EOLhyphen"/>rum ditanti proponunt: globulos e<g ref="char:EOLhyphen"/>tiam habe<g ref="char:cmbAbbrStroke">̄</g>t precarios, quos permul<g ref="char:EOLhyphen"/>ti Iaponii non ſolum priuatos inter parietes, ſed in publico, tota<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vr<g ref="char:EOLhyphen"/>be, fere ſemper manu percurrunt.</hi> But which is more (ſayth he) not our religion only, namely Ieſui<g ref="char:EOLhyphen"/>ticall, but almoſt the whole Ro<g ref="char:EOLhyphen"/>man religion may bee ſeene a<g ref="char:EOLhyphen"/>mong theſe <hi>Iaponians,</hi> founded <note place="margin">Holy water, Indulgences, prayers on beades, and ſuch like, vſed among people who know no God.</note> and eſtabliſhed by an Ethnick Spirit: for they haue their holy water; they propoſe great indul<g ref="char:EOLhyphen"/>gences to ſuch as perſeuere in their religion, and enrich their Abbacies: they haue beades for prayer, which many of the <hi>Iapo<g ref="char:EOLhyphen"/>ponians</hi>
+               <pb n="51" facs="tcp:177904:30"/> vſe, not only within their priuate houſes, but in publicke, throughout the whole Towne, they are almoſt alway turning them ouer with their hands.</p>
+            <p>But to leaue this digreſſion, <note place="margin">Beſt remedy againſt ſuch, is the light of Gods word, if it be follow<g ref="char:EOLhyphen"/>ed.</note> and returne againe to our pur<g ref="char:EOLhyphen"/>poſe, let vs remember that the ſoule, and life of all true religi<g ref="char:EOLhyphen"/>on is the wholſome word of God, and that no ſhadow of whatſoeuer ſanctity, or ſeuere life, ſhould moue vs to embrace any religion which cannot bee warranted by the word: <hi>Let no man ſpoyle you through Philoſophie</hi> 
+               <note place="margin">Col. 2. 8 Verſe 21, 22, 23</note> 
+               <hi>and vaine deceit, through the tra<g ref="char:EOLhyphen"/>ditions of men: As touch not, taſte not, handle not, which are after the co<g ref="char:cmbAbbrStroke">̄</g>mandement &amp; doctrines of men, which things haue indeed a ſhewe of wiſedome in voluntary religi<g ref="char:EOLhyphen"/>on,</hi> 
+               <note place="margin">They are nei<g ref="char:EOLhyphen"/>ther ſucceſſors to S. Paul nor Peter, who follow not this light.</note> 
+               <hi>and humbleneſſe of minde, and in not ſparing the bodie;</hi>
+               <pb n="52" facs="tcp:177904:31"/> 
+               <hi>neither haue they in ones eſtimati<g ref="char:EOLhyphen"/>on to ſatisfie the fleſh,</hi> and to the end we be not diuerted fro<g ref="char:cmbAbbrStroke">̄</g> true religion with the ſhew of religi<g ref="char:EOLhyphen"/>on; let vs keepe in minde that warning of S. <hi>Peter, wee haue a moſt ſure word of prophecy, where<g ref="char:EOLhyphen"/>unto yee doe well that ye take heede, as vnto a light, that ſhineth in a</hi> 
+               <note place="margin">2. Per 1 19</note> 
+               <hi>darke place, vntill the day dawne, and the Day-ſtar ariſe in our harts.</hi> For where men reiect the word of the Lord, and wil not make it the rule of their religion, as <hi>Iere<g ref="char:EOLhyphen"/>my</hi> ſayth, <hi>What wiſedome can bee</hi> 
+               <note place="margin">Ieremy.</note> 
+               <hi>in them?</hi> there is no fable ſo falſe, no error ſo groſſe, which their fooliſh hearts ſhall not embrace for a truth.</p>
+            <p>
+               <hi>Integrity,</hi> with doctrine. As <note place="margin">Two orna<g ref="char:EOLhyphen"/>ments of whol ſome doctrine. 1. Integrity. 2. Grauity.</note> the Apoſtle generally before it, requires good workes; ſo now more ſpecially he requires theſe three notable graces, <hi>integritie,</hi>
+               <pb n="53" facs="tcp:177904:31"/> 
+               <hi>grauity, ſinceritie.</hi> In the iudge<g ref="char:EOLhyphen"/>ment of the learned <hi>Beza,</hi> the third ſeemes to redound, <hi>&amp; ex margine in textum irrepſiſse:</hi> truth it is, both the words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in ſtrength of ſignifi<g ref="char:EOLhyphen"/>cation are one, and both of them come from one and the ſelfe ſame Theme <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, neither is it vnaccuſtomed to the Apoſtle to expreſſe one thing vnder more names then one; and therefore ſhall it content vs, to ſpeake of them both vnder one.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Integrity is a grace <note place="margin">Integrity an excellent ver<g ref="char:EOLhyphen"/>tue.</note> which containes a man conſtant in vprightneſſe, not diuertible from it, and whereby he abides in himſelfe one and the ſame, for ſo the word imports one that is free from corruption, <hi>qui nec minis, nec muneribus flectitur,</hi> and cannot be bowed, neither with boaſtes, nor with buddes.
+<pb n="54" facs="tcp:177904:32"/> This vertue is properly reſem<g ref="char:EOLhyphen"/>bled by the Adamant, a preci<g ref="char:EOLhyphen"/>ous pearle, meeter for the fore<g ref="char:EOLhyphen"/>head, then the finger of a Prea<g ref="char:EOLhyphen"/>cher: ſuch a forehead God gaue his ſeruant <hi>Ezechiel; As an Ada<g ref="char:EOLhyphen"/>mant harder the<g ref="char:cmbAbbrStroke">̄</g> flint haue I made</hi> 
+               <note place="margin">Ezech. 3. 9.</note> 
+               <hi>thy forhead. Scaliger</hi> recordeth, that the load-ſtone <hi>Magnes</hi> hath a vertue to draw iron vnto it, vn<g ref="char:EOLhyphen"/>leſſe the Adamant be preſent, for then the Load-ſtone reſtraines the vertue thereof, but the Ada<g ref="char:EOLhyphen"/>mant neuer loſes the vertue, nor changes the nature for the pre<g ref="char:EOLhyphen"/>ſence of any, called therefore <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>quaſi</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>qui domari</hi> 
+               <note place="margin">It preſerueth a man inflexible in tentation.</note> 
+               <hi>non poteſt,</hi> that cannot be daun<g ref="char:EOLhyphen"/>ted. Nothing mollifies the A<g ref="char:EOLhyphen"/>damant, but the bloud of the Goat: and the vpright man, in<g ref="char:EOLhyphen"/>dued with the grace of integrity is onely ſubdued, and made flexible by the vertue of the
+<pb n="55" facs="tcp:177904:32"/> Lambe his bloud, hee giueth place to none, but in Chriſt Ieſus and for him. Hee is not moued with the multitude of examples: put him in what company ye pleaſe, his inte<g ref="char:EOLhyphen"/>grity preſerues him vncorrupted, either with the euill ſpeeches, or e<g ref="char:EOLhyphen"/>uill manners of others.</p>
+            <p>
+               <hi>Nazianzene</hi> in his <hi>Monody,</hi> wri<g ref="char:EOLhyphen"/>ting <note place="margin">Nazian. vita Baſi.</note> the life of <hi>Baſil,</hi> makes menti<g ref="char:EOLhyphen"/>on of the riuer <hi>Alpheus</hi> which run<g ref="char:EOLhyphen"/>neth from <hi>Arcadia</hi> of <hi>Peloponneſus,</hi> 
+               <note place="margin">And maks him like riuer Al<g ref="char:EOLhyphen"/>pheus, which in ſalt water, keepes a freſh taſte.</note> through the ſalt ſea vnto <hi>Arethuſa,</hi> a fountaine in <hi>Sicilia,</hi> and yet looſeth not its owne ſweetnes, and freſhnes. A wonderful thing indeed, and that might ſeeme almoſt incredible, if it were not reported by one ſo worthy of credite: and he brings it in to ex<g ref="char:EOLhyphen"/>preſſe how <hi>Baſil</hi> and he liued in <hi>A<g ref="char:EOLhyphen"/>thens,</hi> not corrupted, neither with the diſſolute manners, nor fond ſu<g ref="char:EOLhyphen"/>perſtitions of ſuch as were their co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>panions in learning: and indeed it
+<pb n="56" facs="tcp:177904:33"/> properly reſembles the grace of in<g ref="char:EOLhyphen"/>tegrity, which in moſt corrupt times &amp; places, preſerues him that hath it vncorrupt, and makes him, like the water of <hi>Alpheus,</hi> which re<g ref="char:EOLhyphen"/>maines freſh in the midſt of the ſalt Sea.</p>
+            <p>There are three men in holy <note place="margin">Examples of rare in<g ref="char:EOLhyphen"/>tegrity.</note> Scripture greatly co<g ref="char:cmbAbbrStroke">̄</g>mended, <hi>Noah, Iob, Daniel. Noah</hi> liued in a time when all fleſh had corrupted their waye, then God gaue him this te<g ref="char:EOLhyphen"/>ſtimony: <hi>Thee only haue I found righ<g ref="char:EOLhyphen"/>teous in this generation. Iob</hi> of <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> poſteritie, liuing among Gen<g ref="char:EOLhyphen"/>tiles; and <hi>Daniel</hi> of <hi>Iſraels</hi> ſeede, li<g ref="char:EOLhyphen"/>uing among the prophane <hi>Perſians;</hi> by their integrity were kept from the common corruptions of others. And this ſame is the Prayer of the Angel of <hi>Pergamus: I know where</hi> 
+               <note place="margin">Reu. 2. 13</note> 
+               <hi>thou dwelleſt, euen where Satan hath his throne, and thou haſt kept my name and haſt not denyed my faith, euen in</hi>
+               <pb n="57" facs="tcp:177904:33"/> 
+               <hi>thoſe dayes, when Antipas my faithfull Martyr was ſlaine among you.</hi>
+            </p>
+            <p>And as this grace of integrity, <note place="margin">Integrity makes a man to be feared eue<g ref="char:cmbAbbrStroke">̄</g> of ſuch as perſecute him.</note> preſerueth a man vpright, and infle<g ref="char:EOLhyphen"/>xible by tentation, making him this way gracious and acceptable to his God, ſo doth it make him fearefull and terrible to his enemies. Among many examples I might bring for this purpoſe, I content with one: when <hi>Modeſtus</hi> the deputy of <hi>Valens</hi> an <hi>Arrian</hi> Emperor cauſed to bring <note place="margin">Nazian. vita Ba<g ref="char:EOLhyphen"/>ſil.</note> 
+               <hi>Baſilius</hi> before him, of minde to tempt him to embrace the <hi>Arrian</hi> hereſie, which his Maſter <hi>Valens,</hi> and almoſt all the Biſhops of the Eaſt had done before him; he firſt allured him with faire promiſes, by which when he ſawe hee could not <note place="margin">A notable example hereof <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Baſilius.</note> preuaile, he fell to him with threat<g ref="char:EOLhyphen"/>nings, <hi>Ac exilium, tormenta, mortem deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſam minitatur:</hi> but as a rock in the ſea is not moued with the tur<g ref="char:EOLhyphen"/>bulent waues which the ſtormy
+<pb n="58" facs="tcp:177904:34"/> wind raiſes againſt it; no more was <hi>Baſile</hi> with theſe words of <hi>Modeſtus,</hi> his integrity vpheld him as ye may perceiue by his anſweres.</p>
+            <p>I care for none of thoſe things, <note place="margin">Whoſe in<g ref="char:EOLhyphen"/>tegrity made him ſtrong to deſpiſe ba<g ref="char:EOLhyphen"/>niſhment, torments and death threatned by Mode<g ref="char:EOLhyphen"/>ſtus.</note> ſaith he, that thou haſt ſpoken, boaſt mee not with baniſhment I feare it not; <hi>Vnam hominum cognoſcens eſſe patriam Paradiſum, omne<g ref="char:cmbAbbrStroke">̄</g> autem ter<g ref="char:EOLhyphen"/>ram commune aſpicimus naturae exi<g ref="char:EOLhyphen"/>lium;</hi> for I know no home but hea<g ref="char:EOLhyphen"/>uen, no natiue place but Paradiſe: the whole earth I behold a co<g ref="char:cmbAbbrStroke">̄</g>mon baniſhment of mankinde. And as for your torments I defie them, <hi>quid enim haec in me poterunt, cum corpus prope nullum, &amp; oſsa ſine carnibus ſint inuentura:</hi> for what can they do to mee, whoſe body is ſo worne, that there is nothing but bones without fleſh for rhem to work vpon? Death in like manner I regard not: <hi>Mor<g ref="char:EOLhyphen"/>tem quomodo formidabo, quae me meo redditura ſit Creatori?</hi> Why ſhall I
+<pb n="59" facs="tcp:177904:34"/> feare it which can doe nothing to me, but reſtore me to my Maker?</p>
+            <p>
+               <hi>Modeſtus,</hi> aſtoniſhed with theſe <note place="margin">Where<g ref="char:EOLhyphen"/>with Mo<g ref="char:EOLunhyphen"/>deſtus was not only aſtoni<g ref="char:EOLhyphen"/>ſhed:</note> words, ſaid vnto him. No man hi<g ref="char:EOLhyphen"/>therto hath dealt with me with ſuch boldneſſe and liberty as now you haue done, to who<g ref="char:cmbAbbrStroke">̄</g> the man of God anſwered, <hi>Quod forte in Epiſcopum non incidiſti, alioqui ſic ille pro pietate certans tecum diſſeruiſſet:</hi> It may ve<g ref="char:EOLhyphen"/>ry well be, becauſe ye haue not hap<g ref="char:EOLhyphen"/>ned on a Biſhop, which if you had done, he would haue anſwered you in the ſame manner. For in all other things we are more hu<g ref="char:cmbAbbrStroke">̄</g>ble then any other men. But where the queſtion is of faith and godlineſſe, wee dare not be fearefull nor baſe-minded, ſo ſhould wee be iniurious to God, if wee would derogate any thing from his dignity for the pleaſure of man. In a word, ſayth hee, do with me what you pleaſe, and after your maner: vſe ſuch power, as you haue
+<pb n="60" facs="tcp:177904:35"/> againſt me; but aſſure your ſelf you ſhall neuer be able to perſwade me, nor yet co<g ref="char:cmbAbbrStroke">̄</g>pel me to adhere to your impiety. <hi>Modeſtus</hi> perceiuing that no maner of way he could preuaile diſmiſſed him, not with threatnings any more, but with a feare and reue<g ref="char:EOLhyphen"/>rence <note place="margin">But forced to breake out in a great com<g ref="char:EOLhyphen"/>mendati<g ref="char:EOLhyphen"/>on of Mo<g ref="char:EOLhyphen"/>deſtus.</note> of him. And comming back to his Maſter the Emperour, hee counſelled him to aſſay his ſtrength againſt another: for as to <hi>Baſilius, firm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or eſt quam vt verbis, praeſtan<g ref="char:EOLhyphen"/>tior quam vt minis, fortior quam vt blanditiis vinci poſſit:</hi> Hee is ſo ſo<g ref="char:EOLhyphen"/>lid that words cannot ouercome him, ſo reſolute that threatnings cannot moue him, &amp; ſo ſtrong that allurements cannot alter him. A no<g ref="char:EOLhyphen"/>table example ſhewing to vs what a worthy Iewell this grace of inte<g ref="char:EOLhyphen"/>grity is in the ſeruant of God, which makes him to be feared and reue<g ref="char:EOLhyphen"/>renced, euen of ſuch as are his ene<g ref="char:EOLhyphen"/>mies.</p>
+            <pb n="61" facs="tcp:177904:35"/>
+            <p> There are two euils ſore enemies <note place="margin">2. Great euils ene<g ref="char:EOLhyphen"/>mies to integrity. 2. Tim. 5. 21.</note> to this grace of integrity: the Apo<g ref="char:EOLhyphen"/>ſtle chargeth <hi>Timothy</hi> by a graue obteſtation to beware of them both. The firſt is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the ſe<g ref="char:EOLhyphen"/>cond is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies preiudice, or haſtie iudgement, whereby ſentence is giuen out be<g ref="char:EOLhyphen"/>fore ſufficient tryall: a dangerous euill in any Iudge, but moſt of all in an <hi>Eccleſiaſticall.</hi> The Lord <note place="margin">The firſt is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> whereby iudgeme<g ref="char:cmbAbbrStroke">̄</g>t is giuen of a perſon or matter before try<g ref="char:EOLhyphen"/>all.</note> our God, the righteous Iudge of all the world, gaue no ſentence a<g ref="char:EOLhyphen"/>gainſt <hi>Adam</hi> and <hi>Euah,</hi> nay nor a<g ref="char:EOLhyphen"/>gainſt the Serpent, til firſt cognition of their fault went before, neither powred he out iudgement againſt <hi>Sodome</hi> and <hi>Gomorrha,</hi> till firſt hee came downe and ſaw, that their ſinnes were according to their cry: which doubtleſſe the Lord did, to giue inſtruction vnto al Iudges that they ſhould not iudge before-hand. This ſinne diuerted <hi>Dauid</hi> from his
+<pb n="62" facs="tcp:177904:36"/> integrity, when he gaue ſentence a<g ref="char:EOLhyphen"/>gainſt innocent <hi>Mephiboſheth,</hi> vpon the falſe narration made vnto him by <hi>Ziba.</hi> Beware then of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for it is a ſore enemy to integrity.</p>
+            <p>The other euill is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; for<g ref="char:EOLhyphen"/>bidden <note place="margin">The other is, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> whereby a man either of ſelf pro<g ref="char:EOLhyphen"/>penſion, or others perſwaſi<g ref="char:EOLunhyphen"/>on, is made partiall.</note> alſo by the Apoſtle <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, partialitie, or a pro<g ref="char:EOLhyphen"/>penſion to the one ſide more then to the other. The word may be read either with I or H: if it be read with IOTA, as the moſt part, and beſt learned doe, then it ſignifies parti<g ref="char:EOLhyphen"/>ality, which commeth of a mans owne voluntary inclination to one more then to another, proceeding either of loue, or of hatred, of feare or of ſome cupiditie. If otherwiſe it be read with ETA, as <hi>Theophilactus</hi> doeth, then it ſignifieth that partiall inclination, which is procured by the requeſt, interceſſion or aduoca<g ref="char:EOLhyphen"/>tion of others, and this is a very for<g ref="char:EOLhyphen"/>cible and yet common tentation, a<g ref="char:EOLhyphen"/>gainſt
+<pb n="63" facs="tcp:177904:36"/> which a Biſhop hath neede <note place="margin">Againſt this all in authority, ſpecially Biſhops haue need to be con<g ref="char:EOLhyphen"/>firmed.</note> to be confirmed; that fot the plea<g ref="char:EOLhyphen"/>ſure of men hee incline neither to the right hand nor vnto the left, but ſtill may keepe his integrity.</p>
+            <p>It was a notable anſwere which <hi>Vitellius</hi> the Emperour gaue vnto one of his friends, who being refu<g ref="char:EOLhyphen"/>ſed <note place="margin">A notable anſwere, of the Em<g ref="char:EOLhyphen"/>perour Vi<g ref="char:EOLhyphen"/>tellius to this pur<g ref="char:EOLhyphen"/>poſe.</note> of a certaine vnreaſonable re<g ref="char:EOLhyphen"/>queſt, had ſayd vnto him with in<g ref="char:EOLhyphen"/>dignation: What auailes your friendſhip to me, or what better are we that you are preferred to be Em<g ref="char:EOLhyphen"/>perour, ſeeing I cannot obtaine that which I craue? to whom the Empe<g ref="char:EOLhyphen"/>rour replied, and what auailes thy friendſhip to mee, if for thy ſake I muſt doe that which is vnhoneſt and becomes me not?</p>
+            <p>
+               <hi>Nazianzene</hi> compares men ad<g ref="char:EOLhyphen"/>uanced <note place="margin">A compa<g ref="char:EOLhyphen"/>riſon of Nazianz. ſeruing this pur<g ref="char:EOLhyphen"/>poſe alſo.</note> vnto high places in the Church, to thoſe actors, common<g ref="char:EOLhyphen"/>ly called <hi>funambuli,</hi> who walke vp<g ref="char:EOLhyphen"/>on a cord ſtretcht out from one part
+<pb n="64" facs="tcp:177904:37"/> to an other high aboue the earth: all their ſafety ſtands in their vp<g ref="char:EOLhyphen"/>right walking: if they decline but a little, either to the right hand or the left, they become a deſtruction to themſelues. And thus much for the grace of integrity, expreſſed here, vnder the words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: which grace that it may bee diſtinguiſhed from that which followes, we do chiefely re<g ref="char:EOLhyphen"/>ferre vnto that inward diſpoſition of the heart, whereby the man of God, walketh with God as <hi>Henoch</hi> did, and followes him in all his waies, as <hi>Eliſha</hi> followed <hi>Eliiah,</hi> and would not ſuffer himſelfe to bee di<g ref="char:EOLhyphen"/>uided from him.</p>
+            <p>
+               <hi>Grauity.</hi> The other grace requi<g ref="char:EOLhyphen"/>red <note place="margin">With inte<g ref="char:EOLhyphen"/>grity, gra<g ref="char:EOLhyphen"/>uity is re<g ref="char:EOLhyphen"/>quired.</note> here is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. It impors ſuch a moderate carriage as may procure reuerence to a Biſhop of al that be<g ref="char:EOLhyphen"/>hold him. This vertue compoſes the man of God in all his outward
+<pb n="65" facs="tcp:177904:37"/> behauiour, whereunto it is to be re<g ref="char:EOLhyphen"/>referred. The word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſome<g ref="char:EOLhyphen"/>time is taken in an euill part, <hi>pro tu<g ref="char:EOLhyphen"/>mido, qui affabilis non eſt,</hi> for a man ſwelling with ſuch conceit of him<g ref="char:EOLhyphen"/>ſelfe <note place="margin">This gra<g ref="char:EOLhyphen"/>uity com<g ref="char:EOLhyphen"/>poſeth all the parts of a Biſhop or Paſtors outward conuerſa<g ref="char:EOLhyphen"/>tion. 2. Tim. 2. 24.</note> as makes him ſtrange and diffi<g ref="char:EOLhyphen"/>cil toward others, not acceſſible, nor curteous, nor humane to ſpeak vnto. Such ſtatelineſſe the Apo<g ref="char:EOLhyphen"/>ſtle will haue farre from the man of God, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſeruant of the Lord ſhould bee gentle toward all men,</hi> he ſhould be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, courteous, affable, de<g ref="char:EOLhyphen"/>ſpiſing no man, yet ſo that hee ſtill keepe this grauity in al his outward actions; yea euen in his counte<g ref="char:EOLhyphen"/>nance and geſture of his body. <hi>Cor<g ref="char:EOLhyphen"/>poris</hi> 
+               <note place="margin">
+                  <hi>Ambr. offic. lib.</hi> 1. <hi>cap.</hi> 18.</note> 
+               <hi>enim motus, vox quaedam eſt ani<g ref="char:EOLhyphen"/>mi,</hi> the motion of the body is a cer<g ref="char:EOLhyphen"/>taine language of the minde. Diſ<g ref="char:EOLhyphen"/>ſolute laughter, <hi>Cachinnus,</hi> was tax<g ref="char:EOLhyphen"/>ed by the Fathers of the Primitiue Church in their ſermons for a foule
+<pb n="66" facs="tcp:177904:38"/> fault, and ſuch as was not tolerable in any Chriſtian. And <hi>Ambroſe</hi> in the place before cited records, that he debarred one from the Miniſtry, who otherway could haue done good offices in the Church, onely becauſe his behauiour was light and vndecent, and ſuch as became not the grauity of a Preacher.</p>
+            <p>We haue here then three notable <note place="margin">Three gra<g ref="char:EOLhyphen"/>ces requi<g ref="char:EOLhyphen"/>red to make a complete Paſtor.</note> parts which make the man of God complete; <hi>Sincerity</hi> within, <hi>Grauity</hi> without, &amp; with theſe the grace of <hi>powerfull preaching.</hi> Oh how ſel<g ref="char:EOLhyphen"/>dome do theſe concurre together! how many ſhall we finde can make a faire ſhew without, of that which is not within! or if he haue both yet wanteth the third, and is not able to put his talent to profit, vttering the grace which he hath receiued with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to the edification of others. The Centu<g ref="char:EOLhyphen"/>ry Wrirers make mention of one
+<pb n="67" facs="tcp:177904:38"/> 
+               <hi>Androneus Epiſcopus Rotomage<g ref="char:cmbAbbrStroke">̄</g>ſis,</hi> that he was <hi>humilis corde, grauis vultu, ſa<g ref="char:EOLhyphen"/>piens</hi> 
+               <note place="margin">
+                  <hi>Cent.</hi> 7. It is rare to finde theſe gra<g ref="char:EOLhyphen"/>ces concur in one.</note> 
+               <hi>in colloquio, prudens in conſilio, veheme<g ref="char:cmbAbbrStroke">̄</g>s in arguendo, ardens in dilige<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>do, patiens in aduerſis;</hi> hu<g ref="char:cmbAbbrStroke">̄</g>ble in hart, graue in cou<g ref="char:cmbAbbrStroke">̄</g>tenance, wiſe in ſpeech, prudent in counſel, vehement in re<g ref="char:EOLhyphen"/>buking, feruent in louing, patient in ſuffering. Oh what a ſeemly, and comfortable ſight is it to ſee theſe graces concurre in the ſeruant of God! Many ſuch labourers, the Lord ſend forth into his vineyard.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Wholſome word.</hi> Into the <note place="margin">Not only in pulpit, but in all his ſpeech the words of a Prea<g ref="char:EOLhyphen"/>cher ſhuld be medici<g ref="char:EOLhyphen"/>nall, mini<g ref="char:EOLhyphen"/>ſtring grace.</note> third room the Apoſtle giues rules to his tongue: hee will haue no ſpeech comming from him, but that which is wholſome, good for edifying, and that cannot be repro<g ref="char:EOLhyphen"/>ued. And this is not only to be re<g ref="char:EOLhyphen"/>ferred vnto his ſpeech in pulpit: that point hath been treated already in the wotd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but euen his dai<g ref="char:EOLhyphen"/>ly ſpeech the Apoſtle will haue vn<g ref="char:EOLhyphen"/>rebukeable,
+<pb n="68" facs="tcp:177904:39"/> that there may be a con<g ref="char:EOLhyphen"/>ſonancy and harmony between his ſpeech in publick, and his ſpeech in priuate; that his mouth be not like a fountaine out of which proceeds <note place="margin">Iam. 3. 10.</note> both ſweet water &amp; bitter. <hi>The lips</hi> 
+               <note place="margin">Pro. 15. 7.</note> 
+               <hi>of the wiſe ſhould ſpread abroad know<g ref="char:EOLhyphen"/>ledge, and his mouth ſhould be a wel<g ref="char:EOLhyphen"/>ſpring</hi> 
+               <note place="margin">Pro. 10. 11</note> 
+               <hi>of life:</hi> he ſhould carry in his mouth the tongue of the learned; <hi>that he may miniſter a word in ſeaſon</hi> 
+               <note place="margin">Eſay 50. 4 Eccleſ. 10</note> 
+               <hi>to the weary: he ſhould vtter the words of grace, that the co<g ref="char:cmbAbbrStroke">̄</g>fort of his lips may</hi> 
+               <note place="margin">Pro. 10. 21</note> 
+               <hi>aſſwage the ſorrow of the afflicted.</hi> 
+               <note place="margin">Iob. 16. 5</note>
+            </p>
+            <p>In a word, that rule which is here generally giuen for gouernment of <note place="margin">Preachers reſembled by the white horſe, whereupon Chriſt ri<g ref="char:EOLhyphen"/>deth. Coloſ. 4. 6.</note> his tongue, is more particularly ex<g ref="char:EOLhyphen"/>plained by this ſame Apoſtle in that notable exhortation: <hi>Let no corrupt communication proceede out of your mouth, but that which is good to the vſe of edifying, that it may miniſter grace to the hearers; your ſpeech being gracious alway, and poudred with ſalt.</hi>
+               <pb n="69" facs="tcp:177904:39"/> 
+               <hi>Preachers</hi> are reſembled by that <hi>white horſe;</hi> whereupon <hi>Chriſt</hi> the <hi>Conquerour</hi> rideth through the world; and their tongues are com<g ref="char:EOLhyphen"/>pared properly by one, to <hi>that Colt</hi> 
+               <note place="margin">Or by the colt wher<g ref="char:EOLhyphen"/>upon our Sauiour rode, their tongues ſhould not be looſed but at Chriſts command.</note> 
+               <hi>of the Aſſe,</hi> whereupon CHRIST IESVS came riding to <hi>Ieruſalem,</hi> and neuer one had ridden before him. It is time to looſe our tongue when our Lord bids vs, then none ſhould ride vpon it but him<g ref="char:EOLhyphen"/>ſelfe. We ſhould remember, that we are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, men ſeparate vn<g ref="char:EOLhyphen"/>to God, veſſels to ſerue in his ſanct<g ref="char:EOLhyphen"/>uarie, which (without ſacriledge) cannot be emploied to another vſe. We ſhold not pollute not ſo much as our lips, with ſtrange ſpeech, not agreeable to our meſſage wee haue receiued from the Lord. This is <note place="margin">Many a<g ref="char:EOLhyphen"/>buſe their mouth, &amp; make it like the mouth of the Ser<g ref="char:EOLhyphen"/>pent.</note> one of the great ſinnes of our time, inordinate and vnchriſtian talk. The bridled mouth is rare to be found: and now moſt part of men haue
+<pb n="70" facs="tcp:177904:40"/> made their mouth like the mouth of the Serpent, ſpewing out words, either of vanity or wickedneſſe, like a deluge of waters, to drown them<g ref="char:EOLhyphen"/>ſelues and carry others away with them in the ſtreame of their iniqui<g ref="char:EOLhyphen"/>ty. For as one waue or circle in the water raiſes many: ſo one wanton or vaine word, flowing from the mouth of one, ſpecially if he haue authority, prouokes many vnto the like.</p>
+            <p>
+               <hi>That he who withſtandeth, may bee</hi> 
+               <note place="margin">Let not Bi<g ref="char:EOLhyphen"/>ſhops of moſt vnre<g ref="char:EOLhyphen"/>bukeable life, looke to want contradi<g ref="char:EOLhyphen"/>ction.</note> 
+               <hi>&amp;c.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, hee who is of the contrary part and wil ſpeak againſt thee, may be aſhamed: here then is the end of all, thou muſt be an enſample to ediſie ſuch as are good; as likewiſe to ſtoppe the mouthes of ſuch as are contrary minded. And herewithall <hi>Titus</hi> is both forewarned &amp; armed againſt the tentation of the tongue, where<g ref="char:EOLhyphen"/>by Satan laboureth to obſcure the
+<pb n="71" facs="tcp:177904:40"/> name of moſt excellent men, and chiefly them whom he cannot cor<g ref="char:EOLhyphen"/>rupt in their conſcience. Thinke not then, wil the Apoſtle ſay vnto <hi>Titus,</hi> that thou ſhalt want ſome to ſpeake euill of thee; but let thy care bee to liue ſo, that they who ſpeake euill of thee may be aſhamed, and their conſcience may ſay vnto their tong, it is a lye; for oftentimes the ſer<g ref="char:EOLhyphen"/>uants of God are approued of the conſcience of them, whoſe tongues are looſe to ſpeake moſt falſely a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>
+               <hi>Abraham</hi> was the father of the <note place="margin">Abraham, Moſes, yea Ieſus the iuſt wan<g ref="char:EOLhyphen"/>ted it not.</note> faithful, yet yet wanted not he ſome to <hi>curſe</hi> him, being themſelues cur<g ref="char:EOLhyphen"/>ſed of God. <hi>Moſes</hi> the meekeſt man vpon earth, yet were they ma<g ref="char:EOLhyphen"/>ny who murmured againſt him. <hi>Ie<g ref="char:EOLhyphen"/>ſus</hi> that <hi>Iuſt</hi> and <hi>holy one,</hi> ſuſtained great contradiction of ſinners. <hi>Iohn the Baptiſt</hi> liued a very auſtere kind of life, he came neither eating nor
+<pb n="72" facs="tcp:177904:41"/> drinking they <hi>reioyced for a time in his light,</hi> but a little after reiected him. <hi>Herod</hi> delighted to heare him, but at length beheaded him. <hi>The Son of man</hi> liued a more ſocial life, like a <hi>Phyſician</hi> in familiar manner viſiting the ſicke; yet they ſayd hee had a diuel, and kept company <hi>with Publicanes and ſinners.</hi>
+            </p>
+            <p>There is nothing can guard a <note place="margin">A godly man can<g ref="char:EOLhyphen"/>not eſcape the ſcourg of the tongue.</note> man againſt <hi>the ſcourge of the tongue,</hi> no diſtance of place, it is like an ar<g ref="char:EOLhyphen"/>row ſhot out againſt them, who are farre off, no innocence of life; for the tongue of the wicked is like the <hi>Iuniper coale,</hi> the ſparkles whereof <note place="margin">Pſal.</note> flye vpon them that haue not tou<g ref="char:EOLhyphen"/>ched it: ſuch is the humour of wic<g ref="char:EOLhyphen"/>ked men: if they know any euil, it is their pleaſure to diuulgate it, like <note place="margin">Gen.</note> curſed <hi>Cham,</hi> making ſport of the nakednes of his father, and if they know none, they ſit down, and muſe how to forge it. With this rodde <note place="margin">Pſal.</note>
+               <pb n="73" facs="tcp:177904:41"/> of vnrighteouſnes Satan beateth e<g ref="char:EOLhyphen"/>uery childe of God, but the more e<g ref="char:EOLhyphen"/>minent place they haue, the more liberally doth Satan looſe the tongs of the wicked againſt them, that ſo (if he can) he may diſgrace among men, thoſe whom God hath many wayes graced for the good of his Church.</p>
+            <p>
+               <hi>Nazianzene</hi> ſaw this in his time <note place="margin">But the higher his place i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the greater winde of contradi<g ref="char:EOLhyphen"/>ction blowes v<g ref="char:EOLhyphen"/>pon him. <hi>Nazian. vita Ba<g ref="char:EOLhyphen"/>ſil.</hi>
+               </note> and lamented it, <hi>Facilius aliis maxi<g ref="char:EOLhyphen"/>ma, quam nobis minima condonabunt:</hi> ſuch is the iniquity of men (ſaith he) that they will ſooner forgiue great faults in others, then light offenſes in vs: <hi>Quod ſi etiam fuerint imperitio<g ref="char:EOLhyphen"/>res, citius nos impietatis, quam ſeip ſos modicae ignorationis condemnabunt;</hi> and if they be of the rude and more vnlearned ſort, they will rather con<g ref="char:EOLhyphen"/>demne vs of great impiety, then themſelues of ſmal ignorance. As it was then, ſo is now. The world is ſtil like it ſelfe, and we ſhould the more
+<pb n="74" facs="tcp:177904:42"/> patiently beare with it.</p>
+            <p>Three ſorts of contradicents <note place="margin">Three rankes of contradi<g ref="char:EOLhyphen"/>cents to Biſhops &amp; Paſtors, Hereticks, Schiſma<g ref="char:EOLhyphen"/>ticks, A<g ref="char:EOLhyphen"/>theiſts.</note> may a good Biſhop or Paſtor looke for; if he keepe truth he ſhall haue Heretickes, if he keep loue he ſhall haue Schiſmaticks, and if he keepe holineſſe he ſhall haue Atheiſts to ſpeake againſt him. The firſt wee want not, men blinded with the ſpi<g ref="char:EOLhyphen"/>rit of error, boldly withſtanding the truth, as <hi>Iannes</hi> and <hi>Iambres</hi> reſiſted <hi>Moſes:</hi> the third ſort we want not, <note place="margin">Exod.</note> prophane and carnal men, theſe are dogs who turne back to rent them that caſt the pearles of the kingdom of God vnto them; when they are rebuked by the Word, they rebuke it, yea open their mouthes wickedly to blaſpheme it. The ſecond I hope we haue not, at leaſt I know no con<g ref="char:EOLhyphen"/>ſcientious Preacher, laborious in his calling, will come vnder the com<g ref="char:EOLhyphen"/>paſſe of this name, or guiltineſſe of that crime which is noted by it.</p>
+            <pb n="75" facs="tcp:177904:42"/>
+            <p> There may be difference of opi<g ref="char:EOLhyphen"/>nion, <note place="margin">Difference of opinio<g ref="char:cmbAbbrStroke">̄</g>s may be a<g ref="char:EOLhyphen"/>mong good men. Schiſma<g ref="char:EOLhyphen"/>tick diſtra<g ref="char:EOLhyphen"/>ction of affections ſhould not be. Act. 15. 39</note> where there is a concordance and vniform agreement of al points of faith. There fell a diſſenſion be<g ref="char:EOLhyphen"/>tweene <hi>Paul</hi> and <hi>Barnabas,</hi> both of them the faithfull ſeruants of God; S. <hi>Luke</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a ſtirre, or as the word imports, a ſharper dealing of the one with the other, then be<g ref="char:EOLhyphen"/>came Chriſtian meeknes and mo<g ref="char:EOLhyphen"/>deſty; they departed one from a<g ref="char:EOLhyphen"/>nother, but neither of them depar<g ref="char:EOLhyphen"/>ted from the Lord Ieſus, and wher<g ref="char:EOLhyphen"/>ſoeuer they went, the care of both was to aduance the Kingdome of Chriſt by preaching of his Euan<g ref="char:EOLhyphen"/>gel.</p>
+            <p>It is an vnſeemly thing to heare <note place="margin">Moſes drew the people in<g ref="char:EOLhyphen"/>to parties but it was for idola<g ref="char:EOLhyphen"/>try.</note> of a contrary party, of ſides, or fa<g ref="char:EOLhyphen"/>ctions among them, who do all preach one Chriſt Ieſus. I neuer read that any man of God in holy Scripture drew his people into par<g ref="char:EOLhyphen"/>ties, but once when <hi>Iſrael</hi> had pol<g ref="char:EOLhyphen"/>luted
+<pb n="76" facs="tcp:177904:43"/> themſelues with idolatry, wor<g ref="char:EOLhyphen"/>ſhipping the golden Calfe; <hi>Moſes</hi> then cryed for a party, hee ſtood in the doore of the campe, and cried, <hi>Who pertaineth to the Lord, let him come vnto mee,</hi> and all the <hi>Leuites</hi> came downe vnto him, and ſpared not to dip their ſwords in the bloud of their brethren, and deereſt kinſ<g ref="char:EOLhyphen"/>men, who had defiled themſelues with idolatry. There was a diuiſion, but it was for idolatry, which cauſe (bleſſed be God) is not among vs.</p>
+            <p>Let ſuch as haue polluted the <note place="margin">It is a good di<g ref="char:EOLhyphen"/>uiſion to diuide our ſelues from Idolaters.</note> land with falſe worſhip be a contra<g ref="char:EOLhyphen"/>ry party to vs both, as they are in<g ref="char:EOLhyphen"/>deed, but let no man make parties among brethren, they haue depar<g ref="char:EOLhyphen"/>ted from the Lord, and we ſhould depart from them. Oh that all our zeale, our hearts, our tongues, and our pennes, were turned againſt the common enemy. But far be from vs that <hi>Contradiction of Chore, Dathan,</hi>
+               <pb n="77" facs="tcp:177904:43"/> and <hi>Abiram</hi> who contended with <note place="margin">Numb. 16.</note> their brethren of their owne family for the gouernment: <hi>Ye take too much vpon you</hi> (ſayd they vnto <hi>Moſes</hi> and <note place="margin">But the contradi<g ref="char:EOLhyphen"/>ction of Chore ſhould not be among Leuites.</note> 
+               <hi>Aaron) ſeeing all the Congregation of the Lord is holy euery one of them, and the Lord is among them, wherefore then lift yee vp your ſelues aboue the Congregation of the Lord?</hi> Theſe were indeede ſore criminations; why take yee this vpon you? why lift ye your ſelues aboue your brethren, no leſſe holy to the Lord then yee are? but iniuſtly imputed to <hi>Moſes,</hi> 
+               <note place="margin">Heb, 5. 4</note> 
+               <hi>for hee tooke not this honour to him<g ref="char:EOLhyphen"/>ſelfe, but was called thereunto of God.</hi> Woe be to theſe men of whom the Lord may ſay: <hi>They haue run, &amp; I ſent them not;</hi> how can theſe men looke for a bleſſing to whom it cannot bee ſayd: <hi>Take heede to the</hi> 
+               <note place="margin">Act. 20.</note> 
+               <hi>Flocke ouer vvhich the Holy Ghoſt hath made you ouerſeers?</hi> I do free<g ref="char:EOLhyphen"/>ly thinke it from my heart that hee
+<pb n="78" facs="tcp:177904:44"/> ſhall neuer be a good Ruler in the Church, who could not be content all his daies to be ruled, and to giue obedience vnto others in the Lord.</p>
+            <p>There are two euils which diſturb the peace of the Church, would <note place="margin">Two euils which di<g ref="char:EOLhyphen"/>ſturbe the peace of the church</note> God wee were quit of them both. Vſurpation, by which men hunt af<g ref="char:EOLhyphen"/>ter places and preferments in the Church, not awaiting on the Lords call. Againe, orping or male-con<g ref="char:EOLhyphen"/>tentment for want of preferment ſtirreth vp many to diſquiet them<g ref="char:EOLhyphen"/>ſelues and others alſo. The firſt is an euill that ſhould not be ſuffered in a reformed <hi>Church. Crimen Am<g ref="char:EOLhyphen"/>bitus,</hi> a iuſt cauſe to debar a man fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <note place="margin">1. The one is v<g ref="char:EOLhyphen"/>ſurpation, whereby men hunt after pre<g ref="char:EOLhyphen"/>ferment.</note> the holy Miniſtry. I read of many who haue fled ſuch dignity, &amp; ſome haue done that which they ſhould not to make themſelues vncapable for it, they refuſed the burden, and were loth to take it on: but ſeldome or neuer heard tell of one that con<g ref="char:EOLhyphen"/>tended
+<pb n="79" facs="tcp:177904:44"/> for it, who<g ref="char:cmbAbbrStroke">̄</g> God made a co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>fortable inſtrument to his Church. <hi>Reprobate Saul,</hi> though in an other calling, may condemne ſuch men, hee was higher by the ſhoulders then any of the people; yet when they ſought to make him King he hid himſelfe among the ſtuffe: but theſe men ſhew themſelues in moſt publick places; being leſſe the<g ref="char:cmbAbbrStroke">̄</g> their brethren, they wil ſeem bigger then they are, they ſhame not to cry with the voice of the <hi>Lochleach, giue mee it, giue me it.</hi> Such men are worthy <note place="margin">A meet an<g ref="char:EOLhyphen"/>ſwer for ſuch men.</note> of that anſwere, which <hi>Archclaus</hi> king of <hi>Macedon</hi> gaue to an vnman<g ref="char:EOLhyphen"/>nered Poet: hauing with him at ſup<g ref="char:EOLhyphen"/>per diuers learned men; the Poet deſired of him a ſumme of money, which he cauſed to be brought and gaue it to <hi>Euripides</hi> who did not ask it, ſaying: Thou art worthy to haue it, and he to ſeek it; therby declaring, that none are leſſe worthy to haue,
+<pb n="80" facs="tcp:177904:45"/> then they who are moſt ſhameleſſe to ſeek. On the other hand, what e<g ref="char:EOLhyphen"/>uils <note place="margin">2. The o<g ref="char:EOLhyphen"/>ther is malecon<g ref="char:EOLhyphen"/>tentment, which ſtir<g ref="char:EOLhyphen"/>reth vp me<g ref="char:cmbAbbrStroke">̄</g> to diſquiet themſelues and others ariſing of a miſliking that their ſtate is no better.</note> haue bin bred in the church by the orping and miſcontentment of ſome, who not content with the places which they had, aſpiring to higher, whereunto they could not attaine, haue filled the Church with broiles and perturbations; the con<g ref="char:EOLhyphen"/>tradiction of <hi>Core</hi> for the elder time, and Apoſtaſie of <hi>Arrius</hi> for the lat<g ref="char:EOLhyphen"/>ter among mo, may ſtand for ex<g ref="char:EOLhyphen"/>amples. Let no man miſcarry my ſpeech toward theſe vnto whom I haue not directed it. It is onely for thoſe who out of this or ſome other like paſſion maintaine their priuate opinion with publick railing &amp; con<g ref="char:EOLhyphen"/>tention, to the diſturbance of the common peace. There are others, whom notwithſtanding their diuers opinion, we acknowledge to be the deere ſeruants of Chriſt, worthie to bee loued for that grace of GOD
+<pb n="81" facs="tcp:177904:45"/> which is manifeſt in them, wiſhing both vnto them &amp; vs further grace wherby defects of iudgement in vs all may be ſupplied. Let them think of vs as they doe of themſelues in <note place="margin">A louing admoniti<g ref="char:EOLhyphen"/>nn to bre<g ref="char:EOLhyphen"/>thren.</note> that which is good, ſince this is a<g ref="char:EOLhyphen"/>greeable to Chriſtian modeſty, and may happily prepare a way vnto better. If they thinke, they haue knowledge, wee haue ſome alſo: if they think they haue conſcience, we haue reaſon alſo not to be ignorant of the exerciſes thereof, being by Gods mercie ſo long acquainted with the<g ref="char:cmbAbbrStroke">̄</g>. And if they reioice in this that they loue the Lord Ieſus, wee wil alſo reioyce with them: we dare not ſay wee loue our Lord as wee ſhuld; nor as we would, yet in weak<g ref="char:EOLhyphen"/>nes we wil ſay with <hi>Peter</hi> Lord thou knoweſt that we loue thee, and for al the kingdoms of the earth would not wittingly and willingly walke in that courſe, which might import
+<pb n="82" facs="tcp:177904:46"/> diſhonour to the name of our Lord Ieſus, or preiudice to his kingdom.</p>
+            <p>Now to conclude, hauing ſpoken <note place="margin">The tranſ<g ref="char:EOLhyphen"/>planting of a Bi<g ref="char:EOLhyphen"/>ſhop, is but the chang<g ref="char:EOLhyphen"/>ing of a watch-ma<g ref="char:cmbAbbrStroke">̄</g> from one towre of Ieruſalems wal to an<g ref="char:EOLhyphen"/>other.</note> thus much of the duty of a good <hi>Biſhop,</hi> the other point of the duty of people I wil touch in a word; if firſt I remember you of that I ſpake in the beginning. We are not come here to ordaine a new Biſhop, but to confirme an old Biſhop in a new charge. It is but the changing of a watch-man from one Tower of <hi>Ie<g ref="char:EOLhyphen"/>ruſalems</hi> walls (wherein were eight<g ref="char:EOLhyphen"/>ſcore and foure towers) to place him in an other, as one would ſay from the <hi>Turret Pſephina</hi> in the Weſt, &amp; ſet him down in <hi>turri Angulari,</hi> that is in the <hi>Corner</hi> or angular Towre in the eaſt part of the wall, not farre from the Tower of <hi>Hananeel:</hi> this Angular Tower being ten cubits higher then the other, the watch-man is ſet into it, that hee may ſee further off, and preuent more
+<pb n="83" facs="tcp:177904:46"/> early the machinations of <hi>Ieruſa<g ref="char:EOLhyphen"/>lems</hi> enemies.</p>
+            <p>It is the tranſplanting of a tree, <note place="margin">Or the re<g ref="char:EOLhyphen"/>mouing of a tree fro<g ref="char:cmbAbbrStroke">̄</g> one part of the Vine<g ref="char:EOLhyphen"/>yard to a<g ref="char:EOLhyphen"/>nother.</note> from one part of the Lords Vine<g ref="char:EOLhyphen"/>yard to another. This tree hath proued many waies fruitfull in the ſoile, wherein it ſtood before. I wold be more plain if modeſty permitted me; yet this one I cannot pretermit, that many a hungry ſoule who ne<g ref="char:EOLhyphen"/>uer had heard of IESVS CHRIST, feedes this day with great content<g ref="char:EOLhyphen"/>ment vpon the fruit therof, and if it be not as fruitfull in the ſoile, wher<g ref="char:EOLhyphen"/>in this day we are to plant it, to who<g ref="char:cmbAbbrStroke">̄</g> I pray you ſhall the fault bee impu<g ref="char:EOLhyphen"/>ted? But I change this ſpeech, per<g ref="char:EOLhyphen"/>ſwading our ſelues the beſt things of you: for howſoeuer this ground in many places be ſtansby that will not ſuffer to be laboured, and can <note place="margin">A warning ariſing of this conſi<g ref="char:EOLhyphen"/>deration.</note> hardly bee ſubdued by the plough, yet is there other as pleaſant, and fruitfull as any parts of our land.
+<pb n="84" facs="tcp:177904:47"/> Heere are Nobles and Barons of great place, here are learned Doc<g ref="char:EOLhyphen"/>tors and Maſters of a famous Vni<g ref="char:EOLhyphen"/>uerſity, heere is an ancient Citty of ciuil and Chriſtian Burgeſſes, who will think it (I doubt not) their own honour to ſee this tree as fruit<g ref="char:EOLhyphen"/>full among them for the glory of God and good of his Church, as euer it was in any place of the Lords husbandrie before.</p>
+            <p>So your dutie I abſolue in one <note place="margin">Duty of people to thoſe who are ouer them in the Lord abſolued in one word. 2. Cor. 8. 5.</note> word, praying for that vnto you for which the Apoſtle praiſed the <hi>Co<g ref="char:EOLhyphen"/>rinthians</hi> in theſe words; <hi>They gaue their owne ſelues firſt vnto the Lord, and after vnto vs by the will of God.</hi> Let your firſt care, all of you in your ſeuerall callings bee, to giue your ſelues vnto the Lord, and then his grace ſhall direct euery one of you, how yee ſhould behaue your ſelues in your ſeuerall places, to them who are ouer you in the Lord. Which
+<pb n="85" facs="tcp:177904:47"/> bleſſing God beſtow vpon you for Chriſts ſake: to whom with the Fa<g ref="char:EOLhyphen"/>ther and holy Spirit bee all praiſe, and honour, and glorie for euer.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
